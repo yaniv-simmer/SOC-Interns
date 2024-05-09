@@ -11,7 +11,7 @@ ther is some bug in the code that i can't find. the code extracts tweets up to a
 but for some reson it skipps some of the twwets. notice the #TODO also
 
 usege is :
-python3 nitter_scrape.py <twitter_user_name> <password>
+python3 twikit_scrape.py <twitter_user_name> <password>
 '''
 
 
