@@ -1,0 +1,90 @@
+id,name,super,description
+nft-marketplace,NFT Marketplace,NFT,Addresses associated with NFT marketplace entities
+nft,NFT,NFT,Addresses related to NFT collections
+lending-centralized,Lending (Centralized),CeFi,Addresses associated with centralized lending and borrowing platforms
+cex,Centralized Exchange,CeFi,Addresses belonging to Centralized Exchanges for their operations
+dex-aggregator,DEX Aggregator,DeFi,"Addresses deployed by decentralized exchange (DEX) aggregation entities, combining liquidity from multiple DEXs for improved trading efficiency"
+yield,Yield,DeFi,Addresses associated with yield farming platforms
+lending-decentralized,Lending (Decentralized),DeFi,Addresses associated with decentralized lending and borrowing platforms
+dex,Decentralized Exchange,DeFi,Addresses involved in decentralized exchanges which allow users to trade cryptocurrencies without intermediaries
+derivatives,Derivatives,DeFi,Addresses associated in trading or the deployment of blockchain-based derivative products
+gaming,Gaming,Other,Addresses associated with entities in the blockchain gaming space
+insurance,Insurance,Other,Addresses associated with Insurance related entities
+burn-address,Burn Address,Other,Addresses that are inaccessible and used to remove the supply of a token
+oracle,Oracle,Other,"Addresses associated with entities that provide external, real-world data to blockchains and smart contracts"
+privacy,Privacy,Other,Addresses associated with privacy-focused cryptocurrencies or technologies
+stablecoin,Stablecoin,Other,"Addresses associated with entities issuing stablecoins, which are cryptocurrencies designed to maintain a stable value"
+cdp,CDP,Other,Addresses involved with DeFi platforms offering Collateralized Debt Positions (CDPs) like MakerDAO
+brokerage,,Other,"Addresses associated with prime brokerage entities that offer a suite of services for institutional clients including lending, leveraged trade executions, OTC deals, and asset management"
+charity,Charity,Other,Addresses associated with charitable organizations or initiatives receiving donations
+dao,DAO,Other,Addresses linked to Decentralized Autonomous Organizations (DAOs) that operate based on smart contracts and community governance
+meme,Meme,Other,Addresses related to memecoins otherwise known as shitcoins
+real-world-assets,Real World Assets,Other,Addresses associated with entities that offer tokens representing real-world assets
+genesis-block-address,Genesis Block Address,Other,Addresses receiving an allocation in the first block of a blockchain
+etp,Exchange-Traded Product,Other,Addresses holding funds on behalf of an ETP including ETFs and ETNs
+input-data-messenger,Input Data Messenger,Other,Addresses that exchange messages via the Input Data fields within transactions
+tron-account-created,Tron Account Created,Other,Addresses created by other accounts on Tron using AccountCreateContract calls
+tron-account-creator,Tron Account Creater,Other,Addresses creating other accounts on Tron using AccountCreateContract calls
+early-token-holder,Early Token Holder,Other,Addresses receiving a cryptocurrency within the first 1% of its existence
+donor,Donor,Other,Addresses making donations to charities
+tron-energy-delegate,Tron Energy Delegator,Other,"Addresses receiving delegated energy from another Tron account, enabling the delegate to perform transactions without consuming its own resources"
+tron-energy-delegator,Tron Energy Delegator,Other,"Addresses delegating energy to another Tron account, enabling the delegate to perform transactions without consuming its own resources"
+tron-staker,TRX Staker,Other,"Addresses that freeze TRX to gain voting power, Bandwidth, or Energy, contributing to network governance and securing resources for transaction or smart contract execution"
+airdrop-distributor,Airdrop Distributor,Airdrop,Addresses distributing airdrops to users on behalf of a project
+airdrop-recipient,Airdrop Recipient,Airdrop,Addresses receiving airdrops
+custodian,Custodian,Custody,Addresses associated with custodian entities that hold and secure cryptocurrencies on behalf of their clients to ensure their safety and compliance with regulatory standards.
+bitcoin-suisse-custody,Bitcoin Suisse Custody,Custody,Addresses custodied by Bitcoin Suisse Custody
+swissquote-custody,Swissquote Custody,Custody,Addresses custodied by Swissquote
+kingdom-trust-custody,Kingdom Trust Custody,Custody,Addresses custodied by Kingdom Trust Custody
+nydig-custody,NYDIG Custody,Custody,Addresses custodied by NYDIG
+zodia-custody,Zodia Custody,Custody,Addresses custodied by Zodia
+gemini-custody,Gemini Custody,Custody,Addresses custodied by Gemini
+cantor-fitzgerald-custody,Cantor Fitzgerald Custody,Custody,Addresses custodied by Cantor Fizgerald
+bitgo-custody,BitGo Custody,Custody,Addresses custodied by BitGo
+komainu-custody,Komainu Custody,Custody,Addresses custodied by Komainu Custody
+copper-custody,Copper Custody,Custody,Addresses custodied by Copper Custody
+coinbase-prime-custody,Coinbase Prime Custody,Custody,Addresses custodied by Coinbase Prime for institutional funds
+hashkey-custody,HashKey Custody,Custody,Addresses custodied by HashKey Custody
+suspicious,Suspicious,Illicit,"Addresses reported as suspicious, phishing, or involved in illicit activity"
+ransomware,Ransomware,Illicit,Addresses associated with ransomware attacks or ransom payments
+scam,Scam,Illicit,Addresses involved in fraudulent or deceptive activities
+darkweb,Darkweb,Illicit,Addresses related to services or entities on the dark web
+ponzi,Ponzi,Illicit,Addresses linked to Ponzi schemes or fraudulent investment schemes
+gambling,Gambling,Illicit,Addresses associated with blockchain-based gambling platforms
+hacker,Hacker,Illicit,Addresses associated with reported hacks and exploits
+ofac-sanctioned,OFAC Sanctioned,Illicit,"Addresses sanctioned by The Office of Foreign Assets Control (""OFAC"") of the US Department of the Treasury"
+tornadocash-recipient,Tornado Cash Recipient,Illicit,Addresses receiving funds from Tornado Cash privacy mixer contracts
+banned-by-usdt,Banned by USDT,Illicit,Addresses on the USDT token contract blacklist
+tornadocash-depositor,Tornado Cash Depositor,Illicit,Addresses depositing funds into Tornado Cash privacy mixer contracts
+banned-by-usdc,Banned by USDC,Illicit,Addresses on the USDC token contract blacklist
+liquid-staking,Liquid Staking,Staking,Addresses associated with liquid staking protocols that allow staked assets to remain fungible and tradable
+beacon-depositor,Beacon Depositor,Staking,"Addresses used for depositing funds into the Ethereum 2.0 Beacon Chain, typically for staking purposes to become a validator"
+tokenized-eth2-staker,Tokenized ETH2 Staker,Staking,Addresses holding tokenized representations of assets staked in Ethereum 2.0 Beacon Chain for added liquidity and flexibility
+fund,Fund,Trading,Addresses associated with institutional funds that invest into cryptocurrency tokens and companies
+otc,OTC,Trading,"Addresses involved in over-the-counter trading, facilitating private trades directly between parties outside of public exchanges"
+mev,MEV,Trading,Contract addresses or entities that capitalize off of Maximal Extractable Value (MEV) activities
+individual,Individual,Trading,Addresses associated with an individual
+fund-decentralized,Fund (Decentralized),Trading,Addresses associated with decentralized entities operating as funds that invest into cryptocurrency tokens and companies
+governance-voter,Governance Voter,Governance,Addresses actively participating in the voting process of a decentralized organization or protocol's governance framework
+governance-token,Governance Token,Governance,Governance tokens are token contracts that allow holders to participate in a decentralized organization or protocol's governance framework
+governance-governor,Governor,Governance,Addresses authorized to propose changes or actions within a decentralized organization or protocol's governance framework
+snapshot-delegate,Snapshot Delegate,Governance,Addresses granted voting power by token holders using Snapshot.org contracts
+governance-delegator,Governance Delegator,Governance,Addresses that delegate their voting power to others within a decentralized organization or protocol's governance framework
+snapshot-delegator,Snapshot Delegator,Governance,Addresses granting voting power to other addresses using Snapshot.org contracts
+governance-delegatee,Governance Delegatee,Governance,Addresses designated to receive delegated voting power within a decentralized organization or protocol's governance framework
+government,Government,Government,Addresses controlled by governments involved in cryptocurrency seizures.
+crosschain-interoperability,Crosschain Interoperability,Blockchain Ops,Addresses contributing to interoperability between different blockchain networks
+bridge,Bridge,Blockchain Ops,Addresses involved in transferring assets across blockchains
+blockchain-scaling,Blockchain Scaling,Blockchain Ops,Addresses related to blockchain scaling solutions or layer 2 technologies
+blockchain-infra,Blockchain Infra,Blockchain Ops,Addresses associated with infrastructure or service provider entities in the blockchain ecosystem
+smart-contract-platform,Smart Contract Platform,Blockchain Ops,Addresses associated with or deployed by Smart Contract Platform entities
+miner,Miner,Miner/Validator,"Addresses participating in blockchain mining activities, securing the network and validating transactions"
+validator,Validator,Miner/Validator,Addresses involved in validating transactions and maintaining consensus in proof-of-stake networks
+luxor-tech-pool-participant,Luxor Tech Pool Participant,Miner/Validator,Addresses receiving a share from Luxor Tech Pool bitcoin mining rewards
+braiins-pool-participant,Braiins Pool Participant,Miner/Validator,Addresses receiving a share from Braiins Pool bitcoin mining rewards
+foundry-pool-participant,Foundry Pool Participant,Miner/Validator,Addresses receiving a share from Foundry USA Pool bitcoin mining rewards
+mev-fee-recipient,MEV Fee Recipient,Miner/Validator,Addresses that receive fees associated with Maximal Extractable Value (MEV) activities
+pool-deployer,Pool Deployer,Smart Contracts,Addresses that create liquidity pools in decentralized finance (DeFi) ecosystems
+multisig-deployer,MultiSig Deployer,Smart Contracts,Addresses that have deployed multisig contract wallets
+multisig,MultiSig / Contract Wallet,Smart Contracts,Contracts used as user wallets which may require multiple signatures in order to execute a transaction
+token-deployer,Token Deployer,Smart Contracts,Addresses that have deployed a token smart contract
