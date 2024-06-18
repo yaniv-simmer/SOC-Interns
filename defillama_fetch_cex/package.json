@@ -1,0 +1,28 @@
+{
+  "name": "defillame_read_cex_addrs",
+  "version": "1.0.0",
+  "main": "get_addrs.js",
+  "module": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node get_addrs.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@defillama/sdk": "^5.0.69",
+    "@project-serum/anchor": "^0.26.0",
+    "@solana/web3.js": "^1.93.0",
+    "axios": "^1.7.2",
+    "bignumber.js": "^9.1.2",
+    "csv": "^6.3.9",
+    "esm": "^3.2.25",
+    "graphql": "^16.8.2",
+    "graphql-request": "^7.0.1",
+    "hi-base32": "^0.5.1",
+    "js-sha512": "^0.9.0",
+    "limiter": "^2.1.0",
+    "starknet": "^5.24.3"
+  },
+  "description": ""
+}
