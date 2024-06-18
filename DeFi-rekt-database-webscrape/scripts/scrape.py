@@ -3,7 +3,7 @@ import os
 import requests
 
 BASE_URL = 'https://api.de.fi/v1/rekt/list'
-OUTPUT_FILE = 'output/rekt_raw_data.csv'
+OUTPUT_FILE = 'output/rekt_all_data.csv'
 HEADERS = {
     'Accept': 'application/json, text/plain, */*',
     'Accept-Encoding': 'gzip, deflate, br, zstd',
@@ -36,11 +36,25 @@ def get_page_api_call(page: int):
 
 
 def write_page_to_csv(data):
-    with open(OUTPUT_FILE, 'a', newline='', encoding='utf-8') as f:
-        writer = csv.writer(f)
-        for item in data:
-            writer.writerow([item['project_name'],item['description'],item])
+    # with open(OUTPUT_FILE, 'a', newline='', encoding='utf-8') as f:
+    #     writer = csv.writer(f)
+    #     for item in data:
+    #         writer.writerow([item['project_name'],item['description'],item])
+    
+    with open(OUTPUT_FILE, mode='w', newline='' , encoding='utf-8') as file:
+        # Create a CSV writer object
+        writer = csv.DictWriter(file, fieldnames=data[0].keys())
+        
+        # Write the header
+        writer.writeheader()
+        
+        # Write the data rows
+        for row in data:
+            writer.writerow(row)
 
+            
+
+ 
 
 
 
