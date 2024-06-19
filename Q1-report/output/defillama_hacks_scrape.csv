@@ -1,0 +1,269 @@
+chains,classification,date,target,amount,name,technique,bridge,link
+['BSC'],Protocol Logic,1690156800,DeFi Protocol,0.9,Palmswap,Inflationary Accounting Manipulation,False,https://twitter.com/peckshield/status/1683609019334950912
+['Ethereum'],Smart Contract Language,1628553600,DeFi Protocol,8.95,Punk Protocol,Delegatecall Exploit,False,https://medium.com/punkprotocol/punk-finance-fair-launch-incident-report-984d9e340eb
+['Ethereum'],Protocol Logic,1668038400,DeFi Protocol,4.0,DFX,Reentrancy,False,https://twitter.com/peckshield/status/1590831589004816384?s=20&t=0ylCEXp_O5DBIbFTAHA9vA
+['Ethereum'],Infrastructure,1689984000,DeFi Protocol,0.3,Conic Finance,Flashloan Price Oracle Attack,False,https://medium.com/@ConicFinance/post-mortem-eth-and-crvusd-omnipool-exploits-c9c7fa213a3d
+['Ethereum'],Protocol Logic,1709856000,DeFi Protocol,2.1,Unizen,External Call Vulnerability,False,https://twitter.com/peckshield/status/1766210445415727608
+['Ethereum'],Ecosystem,1650153600,DeFi Protocol,181.0,Beanstalk,Flashloan Governance Attack,False,https://twitter.com/FrankResearcher/status/1515693895887294466?s=20
+['BSC'],Ecosystem,1624320000,DeFi Protocol,4.5,Eleven Finance,Flashloan Burn Function Exploit,False,https://rekt.news/11-rekt/
+['Ethereum'],Ecosystem,1689897600,DeFi Protocol,3.2,Conic Finance,Flashloan Reentrancy Attack,False,https://twitter.com/ConicFinance/status/1682385596700844032?t=4a-w-I06_7EcbwpKWbPZHA&s=19
+['Polygon'],Rugpull,1659916800,DeFi Protocol,3.5,Dragoma,Drain Vaults,False,https://www.coindesk.com/business/2022/08/08/polygon-based-web3-game-dragoma-supporters-fall-victim-to-35m-rug-pull-peckshield/
+['Ethereum'],Infrastructure,1660003200,DeFi Protocol,0.575,Curve Finance,DNS Spoofing,False,https://rekt.news/curve-finance-rekt/
+['BSC'],Rugpull,1614816000,DeFi Protocol,32.0,Meerkat Finance,Drained Contracts,False,https://rekt.news/meerkat-finance-bsc-rekt/
+['Ethereum'],Protocol Logic,1705017600,DeFi Protocol,0.464,Wise Lending,Rounding Donation Attack,False,https://twitter.com/spreekaway/status/1745892488127070270
+['Ethereum'],Ecosystem,1608249600,DeFi Protocol,7.8,Warp Finance,Flashloan Price Oracle Attack,False,https://rekt.news/warp-finance-rekt/
+['Ethereum'],Infrastructure,1663632000,Other,160.0,Wintermute,Private Key Compromised (Brute Force),False,https://slowmist.medium.com/the-real-cause-of-the-wintermute-exploit-10da7e404b3b
+['Harmony'],Infrastructure,1638921600,DeFi Protocol,1.75,8ight Finance,Private Key Compromised (Unknown Method),False,https://rekt.news/8ight-finance-rekt/
+['Ethereum'],Protocol Logic,1671926400,DeFi Protocol,1.41,Rubic,Router Exploit,True,https://twitter.com/peckshield/status/1606937055761952770?s=20&t=Vdvjv2C7zUazmgvQ2SOQow
+['Solana'],Infrastructure,1659398400,Wallet,5.3,Slope Wallet,Private Key Compromised (Stored Publicly),False,https://solana.com/news/8-2-2022-application-wallet-incident
+[],Infrastructure,1681430400,CEX,23.0,Bitrue,Hot wallet hack,False,https://twitter.com/BTCTN/status/1646915702907973632
+['BSC'],Ecosystem,1618185600,DeFi Protocol,22.2,Elephant Money,Flashloan Price Oracle Attack,False,https://twitter.com/BlockSecTeam/status/1513966074357698563
+['Cronos'],Protocol Logic,1708560000,DeFi Protocol,0.25,Tectonic,Flashloan New Market Exploit,False,https://cronoscan.com/tx/0x4c4584a57e5487a06e61c815c7ee368656ad58bd38774184eadcd97072dc1e4b
+['Ethereum'],Ecosystem,1655337600,DeFi Protocol,5.8,Inverse Finance,Flashloan Price Oracle Attack,False,https://twitter.com/peckshield/status/1537382891230883841?s=20&t=uxBt2fIcD_f82MM2VD3pCg
+['Near'],Protocol Logic,1667347200,DeFi Protocol,3.0,Skyward Finance,Reentrancy,False,https://twitter.com/skywardfinance/status/1587947957789331457
+['Ethereum'],Infrastructure,1628726400,DeFi Protocol,7.0,DAO Maker,Private Key Compromised (Unknown Method),False,https://cointelegraph.com/news/dao-maker-crowdfunding-platform-loses-7m-in-latest-defi-exploit
+['Ethereum'],Smart Contract Language,1587254400,DeFi Protocol,1.2,Lendf.me,Reentrancy,False,https://slowmist.medium.com/slowmist-details-of-lendf-me-reentrancy-attack-3e168ab5f2b1
+['BSC'],Protocol Logic,1675296000,DeFi Protocol,3.0,Orion,Reentrancy,False,https://twitter.com/peckshield/status/1621337925228306433?s=20&t=ZroERzkeCrxy3gHxtboQeA
+['Arbitrum'],Protocol Logic,1688428800,DeFi Protocol,0.09,Rodeo Finance,Mint Reserves Logic Exploit,False,https://twitter.com/Phalcon_xyz/status/1676511696603729921?s=20
+"['Ethereum', 'Bitcoin']",Infrastructure,1642464000,CEX,33.7,Crypto.com,Private Key Compromised (Unknown Method),False,https://rekt.news/cryptocom-rekt/
+['Ethereum'],Ecosystem,1605571200,DeFi Protocol,8.0,Origin Protocol,Flashloan Reentrancy Attack,False,https://rekt.news/hack-epidemic/
+['Ethereum'],Ecosystem,1605484800,DeFi Protocol,3.3,CheeseBank,Flashloan Price Oracle Attack,False,https://twitter.com/CheeseBank2020/status/1328343819201380353?s=20&t=qtl30Yo9ErEoVr8v3T20dg
+['Ethereum'],Protocol Logic,1666828800,DeFi Protocol,15.8,Team Finance,Migrate Function Mistake Exploit,False,https://twitter.com/peckshield/status/1585587858978623491?s=20&t=vAGSJQ0ivXGoOv80bGx4iQ
+['Ethereum'],Protocol Logic,1632873600,DeFi Protocol,147.0,Compound,Math Mistake Exploit,False,https://rekt.news/compound-rekt/
+['Arbitrum'],Protocol Logic,1714435200,DeFi Protocol,0.181,Yield Protocol,Balance Disparity Exploit,False,https://twitter.com/peckshield/status/1785121607192817692
+['Polygon'],Ecosystem,1673913600,DeFi Protocol,0.66,Midas Capital,Flashloan Reentrancy Attack,False,https://rekt.news/midas-capital-rekt/
+['Ethereum'],Infrastructure,1702425600,DeFi Protocol,2.7,OKX DEX,Private Key Compromised (Unknown Method),False,https://twitter.com/TheBlock__/status/1734921504523956630
+['Optimism'],Protocol Logic,1692316800,DeFi Protocol,7.2,Exactly Protocol,DebtManager Exploit,False,https://twitter.com/DeDotFiSecurity/status/1692549866713407912
+['Ethereum'],Ecosystem,1634169600,DeFi Protocol,16.0,Indexed Finance,Flashloan Price Oracle Attack,False,https://ndxfi.medium.com/indexed-attack-post-mortem-b006094f0bdc
+['Ethereum'],Protocol Logic,1626307200,DeFi Protocol,5.0,THORChain,Over-ride Logic Exploit,False,https://rekt.news/thorchain-rekt/
+['Arbitrum'],Protocol Logic,1704326400,DeFi Protocol,4.5,Gamma,,False,https://twitter.com/peckshieldalert/status/1742753372334399513
+['Ethereum'],Infrastructure,1699488000,CEX,2.4,CoinSpot,Private Key Compromised (Unknown Method),False,https://twitter.com/PeckShieldAlert/status/1722412658404843691
+['Arbitrum'],Ecosystem,1670630400,DeFi Protocol,6.9,Lodestar Finance,Flashloan Price Oracle Attack,False,https://twitter.com/BowTiedPickle/status/1601650177369993216?s=20&t=lv-ruhz34Xz7S_fZVFZj7w
+['BSC'],Ecosystem,1621382400,DeFi Protocol,45.0,PancakeBunny,Flashloan Price Oracle Attack,False,https://peckshield.medium.com/pancakebunny-incident-root-cause-analysis-7099f413cc9b
+['BSC'],Ecosystem,1680393600,DeFi Protocol,0.65,Allbridge Core,Flashloan Price Oracle Attack,True,https://allbridge.medium.com/allbridge-core-updates-following-the-relaunch-9f7716eeb5da
+['Arbitrum'],Protocol Logic,1683244800,DeFi Protocol,5.0,DEUS Finance,Burn Function Mistake,False,https://twitter.com/storming0x/status/1654561199999135747?s=20
+['BSC'],Ecosystem,1629158400,DeFi Protocol,4.0,SurgeBNB,Flashloan Reentrancy Attack,False,https://beosin.medium.com/a-sweet-blow-fb0a5e08657d
+['Loopring'],Protocol Logic,1717891200,DeFi Protocol,5.0,Loopring,Guardian 2FA service exploit,False,https://x.com/loopringorg/status/1799791898296451515
+['Arbitrum'],Ecosystem,1686787200,DeFi Protocol,0.037,Hyperliquid,CEX Price Manipulation Attack,False,https://twitter.com/HyperliquidX/status/1669818300191363073
+['Polygon'],Infrastructure,1661990400,DeFi Protocol,0.265,KyberSwap,Cloudflare Key Compromised,False,https://blog.kyberswap.com/post-mortem-past-kyberswap-frontend-exploit-sept-2022/
+['Mixin'],Infrastructure,1695427200,Other,200.0,Mixin Network,Database Attack,False,https://twitter.com/MixinKernel/status/1706139175018529139
+['Ethereum'],Ecosystem,1686528000,DeFi Protocol,0.77,Sturdy,Flashloan Reentrancy Attack,False,https://twitter.com/blocksecteam/status/1668084629654638592
+['Ethereum'],Protocol Logic,1466121600,DeFi Protocol,60.0,The DAO,Reentrancy,False,https://ogucluturk.medium.com/the-dao-hack-explained-unfortunate-take-off-of-smart-contracts-2bd8c8db3562
+"['Polygon', 'BSC']",Infrastructure,1636070400,DeFi Protocol,55.0,bZx,Private Key Compromised (Phishing),False,https://medium.com/tidal-finance/bzx-incident-report-e36828347a86
+['BSC'],Protocol Logic,1643328000,DeFi Protocol,80.0,Qubit Finance,Transfer Logic Exploit,True,https://medium.com/@QubitFin/protocol-exploit-report-305c34540fa3
+['Solana'],Infrastructure,1671148800,DeFi Protocol,4.4,Raydium,Private Key Compromised (Unknown Method),False,https://twitter.com/osec_io/status/1603763023151509505?s=20&t=_J9Y8NV-o0QeXHtnkyR-4A
+['Solana'],Ecosystem,1667347200,DeFi Protocol,1.26,Solend,Price Oracle Attack,False,https://twitter.com/solendprotocol/status/1587671511137398784
+['Icon'],Protocol Logic,1674259200,DeFi Protocol,1.891,Omm,Redeem Function Exploit,False,https://forum.omm.finance/t/omm-exploit-postmortem-january-2023/266
+"['Ethereum', 'Tron', 'BSC', 'Bitcoin', 'Polkadot', 'Avalanche']",Infrastructure,1685750400,Wallet,100.0,Atomic Wallet,Private Key Compromised (Unknown Method),False,https://twitter.com/tayvano_/status/1668778031790587905?t=ZXAVt7ExhHZcGIzs5ZD33w&s=19
+['Ethereum'],Protocol Logic,1705363200,DeFi Protocol,3.3,Bungee,Token approval exploit,True,https://www.dlnews.com/articles/defi/hacker-swipes-33m-from-bungee-crypto-bridge-users/
+['Polygon'],Protocol Logic,1644278400,DeFi Protocol,8.7,Superfluid,CTX Exploit,False,https://rekt.news/superfluid-rekt/
+['Avalanche'],Ecosystem,1632182400,DeFi Protocol,34.0,Vee Finance,Flashloan Price Oracle Attack,False,https://veefi.medium.com/vee-finance-attack-analysis-a4839724e085
+['Ethereum'],Ecosystem,1630281600,DeFi Protocol,18.8,Cream Finance,Flashloan Reentrancy Attack,False,https://twitter.com/peckshield/status/1432249600002478081
+['BSC'],Protocol Logic,1665014400,DeFi Protocol,570.0,Binance Bridge,Proof Verifier Bug,True,https://twitter.com/samczsun/status/1578167198203289600
+['BSC'],Ecosystem,1619913600,DeFi Protocol,30.5,Spartan Protocol,Flashloan Pool Shares Exploit,False,https://peckshield-94632.medium.com/the-spartan-incident-root-cause-analysis-b14135d3415f
+['Ethereum'],Ecosystem,1605139200,DeFi Protocol,2.0,Akropolis,Flashloan Reentrancy Attack,False,https://rekt.news/akropolis-rekt/
+['Solana'],Protocol Logic,1647993600,DeFi Protocol,48.0,Cashio,Collateral Validation Exploit,False,https://twitter.com/samczsun/status/1506578902331768832?s=20&t=UL8INfwfJ5hgY7Vq9M3Sbw
+['Ethereum'],Protocol Logic,1626912000,DeFi Protocol,8.0,Thorchain,Refund Logic Exploit,False,https://rekt.news/thorchain-rekt2/
+['Ethereum'],Protocol Logic,1581984000,DeFi Protocol,0.65,bZx,Flashloan Price Oracle Attack,False,https://twitter.com/bneiluj/status/1228757175595438080?s=20&t=rHc453VaZzUqbci29H6YDA
+['Arbitrum'],Protocol Logic,1687824000,DeFi Protocol,0.37,Themis Protocol,Flashloan Price Oracle Attack,False,https://twitter.com/peckshield/status/1673778002373509121
+['BSC'],Protocol Logic,1624924800,DeFi Protocol,0.33,Merlin Labs,Incentive Rewards Exploit,False,https://rekt.news/merlin3-rekt/
+['Ethereum'],Ecosystem,1681344000,DeFi Protocol,11.539,Yearn,Flashloan Misconfiguration Exploit,False,https://twitter.com/osec_io/status/1646411672175939585?s=20
+['Arbitrum'],Protocol Logic,1646265600,DeFi Protocol,1.4,Treasure DAO,Buy Function Exploit,False,https://twitter.com/sniko_/status/1499202361180442627?s=20&t=PmAlFn3y2dhQSStkXyDCDA
+['Ethereum'],Infrastructure,1686528000,DeFi Protocol,0.2,Keep3r Network,Private Key Compromised (Vanity Address),False,https://twitter.com/MetaSleuth/status/1668179353749041159
+['BSC'],Rugpull,1641254400,DeFi Protocol,10.0,Arbix Finance,Drained Contracts,False,https://rekt.news/arbix-rekt/
+['BSC'],Ecosystem,1622246400,DeFi Protocol,6.3,Belt,Flashloan Price Oracle Attack,False,https://rekt.news/belt-rekt/
+['Ethereum'],Protocol Logic,1699574400,DeFi Protocol,3.3,Raft,Infinite Mint and Dump,False,https://twitter.com/AnciliaInc/status/1723055359034568828
+['BSC'],Protocol Logic,1654646400,DeFi Protocol,2.1,Gym Network,Deposit Function Exploit,False,https://rekt.news/gymnet-rekt/
+['Ethereum'],Protocol Logic,1615248000,DeFi Protocol,2.0,DODO,Access Control Exploit,False,https://rekt.news/au-dodo-rekt/
+['Ethereum'],Smart Contract Language,1614384000,DeFi Protocol,14.0,Furucombo,Delegatecall Exploit,False,https://twitter.com/Kurt_M_Barry/status/1365876788757471234?s=20&t=LObPnVPhVbkYv7U9e-AL7w
+['Ethereum'],Infrastructure,1700611200,CEX,26.4,Huobi,Private Key Compromised (Unknown Method),False,https://twitter.com/TheBlock__/status/1727397707843621201
+['BSC'],Ecosystem,1626220800,DeFi Protocol,1.26,ApeRocketFi,Flashloan Incentive Rewards Exploit,False,https://www.google.com/search?q=aperocketfi+hack&oq=aperocketfi+hack&aqs=chrome..69i57j33i10i160j33i21.3640j0j4&sourceid=chrome&ie=UTF-8
+"['Ethereum', 'Polygon']",Protocol Logic,1638230400,DeFi Protocol,31.4,MonoX,Swap Function Exploit,False,https://twitter.com/BlockSecTeam/status/1465690478414761992
+[],Infrastructure,1524268800,CEX,235.0,Gate.io,Private Key Compromised (Unknown Method),False,https://www.justice.gov/opa/press-release/file/1253491/download
+['Gnosis Chain'],Ecosystem,1647302400,DeFi Protocol,5.5,Agave DAO,Flashloan Reentrancy Attack,False,https://rekt.news/agave-hundred-rekt/
+['Ethereum'],Protocol Logic,1587254400,DeFi Protocol,25.0,dForce,Reentrancy,False,https://decrypt.co/26033/dforce-lendfme-defi-hack-25m
+['BSC'],Protocol Logic,1686960000,DeFi Protocol,0.6,Midas Capital,Redeem Rounding Error Exploit,False,https://twitter.com/peckshield/status/1670148905810403330?s=20
+['Arbitrum'],Ecosystem,1685232000,DeFi Protocol,7.5,Jimbos Protocol,Flashloan Slippage Attack,False,https://twitter.com/peckshield/status/1662650673731624961?s=20
+['Algorand'],Infrastructure,1677456000,Wallet,9.2,MyAlgo,Cloudflare Key Compromised,False,https://twitter.com/zachxbt/status/1630375691886686208?s=20
+['Base'],Protocol Logic,1690848000,DeFi Protocol,0.62,LeetSwap,Liquidity Pools Compromised,False,https://twitter.com/TheBlock__/status/1686201265758326784
+['Solana'],,1691366400,DeFi Protocol,1.035,Cypher,Unknown,False,https://twitter.com/cypher_protocol/status/1688641036476731393
+"['Ethereum', 'Bitcoin']",,1708214400,DeFi Protocol,26.1,FixedFloat,,False,https://cointelegraph.com/news/fixed-float-confirms-26m-exploit-bitcoin-ether
+['Polygon'],Smart Contract Language,1630627200,DeFi Protocol,3.45,Siren Protocol,Reentrancy,False,https://twitter.com/BlockSecTeam/status/1433682132090568705?s=20&t=yoeOhpvaWABdrYwfwtTJ0Q
+['Osmosis'],Protocol Logic,1703635200,DeFi Protocol,1.1,Levana Perps,Price Oracle Attack,False,https://twitter.com/Levana_protocol/status/1740071199483543819
+['BSC'],Ecosystem,1626393600,DeFi Protocol,2.4,PancakeBunny,Flashloan Incentive Rewards Exploit,False,https://pancakebunny.medium.com/polybunny-post-mortem-compensation-42b5c35ce957
+"['Ethereum', 'BSC', 'Polygon']",Infrastructure,1693785600,Other,41.3,Stake.com,Private Key Compromised (Unknown Method),False,https://twitter.com/web3isgreat/status/1698750534025441678
+['Ethereum'],Rugpull,1631836800,DeFi Protocol,3.1,JayPegs Automart,Redirected Deposits,False,https://rekt.news/jaypegs-automart-rekt/
+['Ethereum'],Protocol Logic,1644105600,DeFi Protocol,7.7,Meter,Deposit Function Exploit,True,https://twitter.com/ishwinder/status/1490227406824685569?s=20&t=_Ypi0s4w213ow0Rdgp4tmw
+"['Ethereum', 'BSC', 'Polygon']",Protocol Logic,1628553600,DeFi Protocol,611.0,Poly Network,Access Control Exploit,True,https://slowmist.medium.com/the-root-cause-of-poly-network-being-hacked-ec2ee1b0c68f
+['Ethereum'],Protocol Logic,1718236800,DeFi Protocol,3.7,UwU Lend,Flashloan Price Oracle Attack,False,https://x.com/TheBlock__/status/1801177660946612664
+['Ethereum'],Protocol Logic,1703980800,DeFi Protocol,81.7,Orbit Bridge,Signature Exploit,True,https://cointelegraph.com/news/cross-chain-protocol-orbit-bridge-suffers-exploit-hack
+['BSC'],Protocol Logic,1620345600,DeFi Protocol,11.0,Value DeFi,Math Mistake Exploit,False,https://twitter.com/FrankResearcher/status/1390905494844313602?s=20
+['Arbitrum'],Rugpull,1684454400,DeFi Protocol,3.0,Swaprum,Drained Contracts,False,https://www.dlnews.com/articles/defi/defi-protocol-swaprum-in-3m-rug-pull-was-certik-audited/?utm_campaign=
+['Ethereum'],Ecosystem,1627948800,DeFi Protocol,20.0,Popsicle Finance,Flashloan Incentive Rewards Exploit,False,https://twitter.com/Mudit__Gupta/status/1422797923037814786?s=20&t=bZ-0VnJ8b4SQbx5PkaOGYg
+"['Ethereum', 'BSC', 'Bitcoin', 'Tron', 'Kadena', 'Solana', 'Dagger', 'XRP', 'BitcoinCash', 'Polygon', 'Stellar', 'Arbitrum']",Infrastructure,1694476800,CEX,55.0,CoinEx,Private Key Compromised (Unknown Method),False,https://www.coindesk.com/tech/2023/09/13/north-korean-attackers-linked-to-54m-coinex-hack-blockchain-data-suggests/
+"['Ethereum', 'Polygon']",Ecosystem,1673395200,DeFi Protocol,0.08,ROE Finance,Flashloan Pool Shares Exploit,False,https://twitter.com/spreekaway/status/1613205435762495488
+"['Ethereum', 'BSC', 'Fantom']",Protocol Logic,1625875200,CEX,7.9,Anyswap,Private Key Compromised (Bad ECDSA Implementation),True,https://rekt.news/anyswap-rekt/
+['Arbitrum'],Rugpull,1676851200,DeFi Protocol,1.86,Hope Finance,Router Exploit,False,https://twitter.com/Cointelegraph/status/1627976451814490113
+['Cronos'],Infrastructure,1651622400,DeFi Protocol,2.0,MM Finance,DNS Spoofing,False,https://medium.com/@MMFinance/dns-hi-jacking-post-mortem-compensation-3e2b5bb21183
+['Ethereum'],Protocol Logic,1700265600,DeFi Protocol,9.0,dYdX,Price Manipulation Attack,False,https://twitter.com/AntonioMJuliano/status/1725926693440045389
+['Ethereum'],Ecosystem,1620777600,DeFi Protocol,24.0,XToken,Flashloan Price Oracle Attack,False,https://twitter.com/FrankResearcher/status/1392515198674681863?s=20
+['Solana'],Protocol Logic,1656720000,DeFi Protocol,8.8,Crema,Access Control Exploit,False,https://twitter.com/Crema_Finance/status/1543638844410499073?s=20&t=tjkZ9crEBqMSfzI2BMG_oQ
+"['Ethereum', 'Arbitrum']",Protocol Logic,1709078400,DeFi Protocol,6.5,Seneca,Token approval exploit,False,https://twitter.com/spreekaway/status/1762857769714012217
+['Iota'],Infrastructure,1581465600,Wallet,2.35,Trinity Wallet,Cloudflare Key Compromised,False,https://blog.iota.org/trinity-attack-incident-part-1-summary-and-next-steps-8c7ccc4d81e8/
+['Ethereum'],Ecosystem,1613174400,DeFi Protocol,37.5,Alpha Finance,Flashloan Pool Shares Exploit,False,https://blog.alphaventuredao.io/alpha-homora-v2-post-mortem/
+['Arbitrum'],Protocol Logic,1709596800,DeFi Protocol,8.5,WOOFi,Price Oracle Manipulation,False,https://twitter.com/peckshieldalert/status/1765054155478175943
+['Arbitrum'],Ecosystem,1678147200,DeFi Protocol,1.59,TenderFi,Outdated Oracle Exploit,False,https://twitter.com/wasgiventhatday/status/1633056446278426624?s=20
+['Acala'],Protocol Logic,1628812800,DeFi Protocol,1.6,Acala Network,Incentives Function Mistake,False,https://twitter.com/alice_und_bob/status/1558959878475075584
+['Ethereum'],Ecosystem,1612828800,DeFi Protocol,1.3,Growth DeFi,Flashloan Price Oracle Attack,False,https://rekt.news/the-big-combo/
+['Polygon'],Infrastructure,1618790400,DeFi Protocol,59.0,EasyFi,Private Key Compromised (Unknown Method),False,https://medium.com/easify-network/easyfi-security-incident-pre-post-mortem-33f2942016e9
+"['Ethereum', 'BSC']",Infrastructure,1638576000,CEX,196.0,Bitmart,Private Key Compromised (Unknown Method),False,https://rekt.news/bitmart-rekt/
+['Mixin'],Ecosystem,1667692800,DeFi Protocol,22.0,Pando Rings,Price Oracle Attack,False,https://pando.im/news/2022/2022-11-06-alert-to-pando-community-hack-of-pando-rings/
+['Ethereum'],Infrastructure,1695600000,CEX,8.0,HTX,Private Key Compromised (Unknown Method),False,https://twitter.com/justinsuntron/status/1706311251024822748?t=saJprSiK51MMd2GUBTnDsQ&s=19
+['Ethereum'],Ecosystem,1638403200,DeFi Protocol,11.0,Saddle Finance,Flashloan Swap Logic Exploit,False,https://rekt.news/saddle-finance-rekt2/
+"['Ethereum', 'BSC']",Protocol Logic,1664668800,DeFi Protocol,21.0,Transit Swap,Transfer Logic Exploit,False,https://rekt.news/transit-swap-rekt/
+['Ethereum'],Ecosystem,1635292800,DeFi Protocol,130.0,Cream,Flashloan Price Oracle Attack,False,https://rekt.news/cream-rekt-2/
+['Ethereum'],Ecosystem,1601251200,DeFi Protocol,15.0,Eminence,Flashloan Price Oracle Attack,False,https://rekt.news/eminence-rekt-in-prod/
+['Terra'],Smart Contract Language,1633651200,DeFi Protocol,90.0,Mirror Protocol,Duplicate Call Exploit,False,https://blocksecteam.medium.com/how-the-mirror-protocol-is-exploited-33b5c1d48322
+['Ethereum'],Protocol Logic,1665446400,DeFi Protocol,2.3,TempleDAO,Exploit Lack of Input Authentication,False,https://twitter.com/FrankResearcher/status/1579840347647414272?s=20&t=Ld2QjyQea4YYyVt3BKyJsA
+"['Tron', 'Ethereum', 'Bitcoin']",Infrastructure,1699574400,CEX,126.0,Poloniex,Private Key Compromised (Unknown Method),False,https://twitter.com/peckshield/status/1722931275764474329
+['Ethereum'],Protocol Logic,1716163200,DeFi Protocol,22.0,Gala,Infinite Mint and Dump,False,https://x.com/Thatguysgems/status/1792679865164128743
+['Hedera'],Protocol Logic,1678406400,DeFi Protocol,0.515,Hedera,Unknown,False,https://rekt.news/hedera-rekt/
+['Heco'],Protocol Logic,1673827200,DeFi Protocol,6.0,Lendhub,Collateral Offboarding Mistake,False,https://twitter.com/SlowMist_Team/status/1613906590574198784?s=20
+['Ethereum'],Protocol Logic,1658707200,DeFi Protocol,6.0,Audius,Malicious Governance Proposal,False,https://rekt.news/audius-rekt/
+['Solana'],Ecosystem,1658966400,DeFi Protocol,3.5,Nirvana Finance,Flashloan Price Oracle Attack,False,https://twitter.com/osec_io/status/1552589378719207424?s=20&t=I8QXz7iG0z7hjvfCA579LA
+['Ethereum'],Ecosystem,1648857600,DeFi Protocol,15.6,Inverse Finance,Price Oracle Attack,False,https://twitter.com/FrankResearcher/status/1510239094777032713?s=20&t=RBNXo-6wEDCiBE5a9nO0-Q
+['BSC'],Infrastructure,1627603200,DeFi Protocol,1.5,Levyathan,Private Key Compromised (Stored Publicly),False,https://rekt.news/levyathan-rekt/
+['BSC'],Rugpull,1616198400,DeFi Protocol,2.5,Turtle Dex,Drained Contracts,False,https://cointelegraph.com/news/binance-smart-chain-s-turtledex-rugpulls-shortly-after-launch
+['Ethereum'],Protocol Logic,1691452800,DeFi Protocol,1.157,Steadefi,Deployer Wallet Compromised,False,https://twitter.com/steadefi/status/1688919583707877376
+"['Ethereum', 'Tron', 'BitcoinCash']",Infrastructure,1694736000,CEX,2.7,Remitano,Private Key Compromised (Unknown Method),False,https://twitter.com/CyversAlerts/status/1702348063145165016/photo/1
+['Fuse'],Smart Contract Language,1648684800,DeFi Protocol,4.0,Ola Finance,Reentrancy,False,https://www.coindesk.com/tech/2022/03/31/ola-finance-exploited-for-36m-in-re-entrancy-attack/
+"['Ethereum', 'Polygon', 'BSC', 'Blast', 'Avalanche', 'Arbitrum', 'Optimism', 'Base', 'zkSync Era', 'Polygon zkEVM']",Protocol Logic,1713830400,DeFi Protocol,0.129,Magpie Protocol,Router Exploit,False,https://twitter.com/magpieprotocol/status/1782708631126819137
+['Ethereum'],Protocol Logic,1698796800,DeFi Protocol,2.1,Onyx Protocol,Flashloan Donate Function Logic Exploit,False,https://twitter.com/decurityhq/status/1719657969925677161
+['BSC'],Protocol Logic,1684886400,DeFi Protocol,0.118,Local Traders,Access Control Exploit,False,https://twitter.com/BeosinAlert/status/1661210668291489794
+"['BSC', 'Moonriver']",Ecosystem,1679097600,DeFi Protocol,0.35,Zircon Gamma,Flashloan Pool Shares Exploit,False,https://twitter.com/Zircon_Finance/status/1637093661321183233
+['Ethereum'],Protocol Logic,1718236800,DeFi Protocol,0.0,Holograph,Infinite Mint and Dump,False,https://www.coindesk.com/tech/2024/06/13/hlg-down-over-60-as-exploiter-mints-1-billion-new-tokens/
+['Ethereum'],Ecosystem,1603670400,DeFi Protocol,25.0,Harvest Finance,Flashloan Price Oracle Attack,False,https://rekt.news/harvest-finance-rekt/
+"['Avalanche', 'Ethereum']",Ecosystem,1670889600,DeFi Protocol,0.854,ElasticSwap,Price Oracle Attack,False,https://twitter.com/ElasticSwap/status/1602582495819694081
+['Ethereum'],Protocol Logic,1679011200,NFTfi,5.0,Paraspace *whitehack,Borrow Logic Exploit,False,https://twitter.com/BlockSecTeam/status/1636650252844294144?s=20
+"['Bitcoin', 'Ethereum', 'XRP', 'Solana']",Infrastructure,1714348800,CEX,14.8,Rain,,False,https://twitter.com/CoinDesk/status/1790197230915194916
+['Ethereum'],Protocol Logic,1606003200,DeFi Protocol,19.7,Pickle Finance,Vault Swap Exploit,False,https://github.com/banteg/evil-jar/blob/master/readme.md
+['Ethereum'],Protocol Logic,1510185600,DeFi Protocol,150.0,Parity Multisig,Contract not initialized,False,https://www.parity.io/blog/a-postmortem-on-the-parity-multi-sig-library-self-destruct/
+['BSC'],Protocol Logic,1669939200,DeFi Protocol,5.0,Ankr,Access Control Exploit,False,https://twitter.com/ankr/status/1598503332477280256
+['Avalanche'],Infrastructure,1652400000,DeFi Protocol,21.8,Blizz Finance,Outdated Oracle Exploit,False,https://rekt.news/venus-blizz-rekt/
+[],Ecosystem,1689984000,Other,37.3,CoinsPaid,Social Engineering,False,https://twitter.com/coinspaid/status/1684297537010774017
+['Optimism'],Protocol Logic,1681516800,DeFi Protocol,7.0,Hundred Finance,Flashloan Donate Function Logic Exploit,False,https://rekt.news/hundred-rekt2/
+['Ethereum'],Protocol Logic,1698710400,DeFi Protocol,0.64,Unibot,Token approval exploit,False,https://twitter.com/peckshield/status/1719223437024284978
+['Ethereum'],Protocol Logic,1623801600,DeFi Protocol,6.5,Alchemix,Borrow Logic Exploit,False,https://forum.alchemix.fi/public/d/137-incident-report-06162021
+"['Arbitrum', 'Optimism']",Protocol Logic,1675987200,DeFi Protocol,3.65,dForce Network,Reentrancy,False,https://twitter.com/peckshield/status/1623902441992523776
+['zkSync Era'],Protocol Logic,1690243200,DeFi Protocol,3.4,Eralend,Reentrancy,False,https://twitter.com/DLNewsInfo/status/1683870083272130562
+['Ethereum'],Ecosystem,1630195200,DeFi Protocol,4.5,X-Token,Flashloan Price Oracle Attack,False,https://medium.com/xtoken/xsnx-post-mortem-666d35071f38
+['Ethereum'],Infrastructure,1601337600,CEX,45.0,Kucoin,Private Key Compromised (Unknown Method),False,https://rekt.news/epic-hack-homie/
+['Ethereum'],Protocol Logic,1693094400,DeFi Protocol,0.8,Balancer,,False,https://twitter.com/mevrefund/status/1695792040531960116
+"['Ethereum', 'Arbitrum']",Ecosystem,1651363200,DeFi Protocol,80.0,Fei Rari,Flashloan Reentrancy Attack,False,https://twitter.com/Hacxyk/status/1520370421773725698?s=20&t=3ZdC2UMcxHaD73SwrcnudQ
+['Ethereum'],Infrastructure,1641600000,DeFi Protocol,7.94,LCX,Private Key Compromised (Unknown Method),False,https://www.lcx.com/hot-wallet-incident-report/
+"['Ethereum', 'BSC']",Infrastructure,1655942400,DeFi Protocol,100.0,Harmony Bridge,Private Key Compromised (Unknown Method),True,https://rekt.news/harmony-rekt/
+['Polygon'],Protocol Logic,1675209600,DeFi Protocol,1.7,BonqDAO,Price Oracle Attack,False,https://twitter.com/peckshield/status/1620917292514299904?s=20&t=ZroERzkeCrxy3gHxtboQeA
+['Solana'],Ecosystem,1665446400,DeFi Protocol,115.0,Mango Market,Price Oracle Attack,False,https://twitter.com/joshua_j_lim/status/1579987648546246658?s=20&t=AFj8CwRWo5dFo_A1-A-18Q
+['Rootstock'],Protocol Logic,1686700800,DeFi Protocol,0.15,Tropykus,Redeem Rounding Error Exploit,False,https://twitter.com/tropykus/status/1669310852787216385
+['Ethereum'],Protocol Logic,1630713600,DeFi Protocol,4.0,DAO Maker,Access Control Exploit,False,https://twitter.com/Mudit__Gupta/status/1434059922774237185?s=20&t=aoOtJLS6FHimjAE1anc1mg
+['Ethereum'],Protocol Logic,1717977600,DeFi Protocol,20.0,UwU Lend,Flashloan Price Oracle Attack,False,https://x.com/theblockupdates/status/1800146327914877062
+['BSC'],Ecosystem,1647129600,DeFi Protocol,1.7,Paraluni,Flashloan Reentrancy Attack,False,https://slowmist.medium.com/paraluni-incident-analysis-58be442a4f99
+['BSC'],Protocol Logic,1679961600,DeFi Protocol,8.9,Safemoon,Access Control Exploit,False,https://twitter.com/MoonMark_/status/1640844732082290688?s=20
+['Ethereum'],Protocol Logic,1711584000,DeFi Protocol,11.6,Prisma Finance,Flashloan Trove Manipulation,False,https://twitter.com/PeckShieldAlert/status/1773345454832378109
+['zkSync Era'],Rugpull,1682380800,DeFi Protocol,1.82,Merlin,Drained Contracts,False,https://twitter.com/TheMerlinDEX/status/1651281814395187200?t=p0udX-ZR1mQfkhNS9KCfEQ&s=19
+['Blast'],Protocol Logic,1711411200,Gaming,62.5,Munchables,Storage Slot Exploit,False,https://twitter.com/_munchables_/status/1772739713687752761
+['Base'],Infrastructure,1713139200,DeFi Protocol,1.7,Grand Base,Private Key Compromised (Unknown Method),False,https://twitter.com/PeckShieldAlert/status/1779796368732872856
+['Stacks'],Infrastructure,1715817600,DeFi Protocol,23.9,ALEX,Private Key Compromised (Phishing),False,https://x.com/defiignas/status/1791050063961276423
+"['Moonriver', 'BSC', 'Fantom']",Infrastructure,1688688000,DeFi Protocol,126.0,Multichain,Private Key Compromised (Unknown Method),True,https://twitter.com/tayvano_/status/1677106407131475968?t=VKQSi0VcSbv_Jgi8Q58SqQ&s=19
+['Base'],Infrastructure,1692057600,DeFi Protocol,0.865,RocketSwap,Private Key Compromised (Brute Force),False,https://twitter.com/Cointelegraph/status/1691316548932456448
+['Polygon'],Ecosystem,1682640000,DeFi Protocol,2.0,0vix,Flashloan Donate Function Logic Exploit,False,https://twitter.com/peckshield/status/1651923235603361793?s=20
+['Arbitrum'],Protocol Logic,1711670400,DeFi Protocol,0.34,Lava,,False,https://twitter.com/CertiKAlert/status/1773584949855277261
+['Fantom'],Ecosystem,1615766400,DeFi Protocol,3.0,Deus DAO,Flashloan Price Oracle Attack,False,https://twitter.com/peckshield/status/1503632734299701250
+['BSC'],Protocol Logic,1677456000,DeFi Protocol,0.7,LaunchZone,Access Control Exploit,False,https://twitter.com/immunefi/status/1630210901360951296?s=20
+['Ethereum'],Infrastructure,1678233600,DAO,0.12,PeopleDAO,Social Engineering,False,https://twitter.com/The_PeopleDAO/status/1634518915668668416?s=20
+['Arbitrum'],Rugpull,1677715200,DeFi Protocol,0.1,ArbiSwap,Infinite Mint and Dump,False,https://twitter.com/CoinDesk/status/1631251260484509698
+['Ethereum'],Infrastructure,1626307200,DeFi Protocol,5.9,Bondly,Private Key Compromised (Unknown Method),False,https://rekt.news/bondly-rekt/
+['Fantom'],Protocol Logic,1685664000,DeFi Protocol,0.653,Hector Network,Unknown,True,https://twitter.com/Hector_Network/status/1664720154595414019
+['Gnosis Chain'],Ecosystem,1647302400,DeFi Protocol,6.2,Hundred Finance,Flashloan Reentrancy Attack,False,https://rekt.news/agave-hundred-rekt/
+['Ethereum'],Protocol Logic,1609200000,DeFi Protocol,9.4,Cover,Incentives Function Mistake,False,https://coverprotocol.medium.com/12-28-post-mortem-34c5f9f718d4
+"['Ethereum', 'BSC', 'Polygon']",Infrastructure,1688256000,DeFi Protocol,5.0,Poly Network,Private Key Compromised (Unknown Method),True,https://twitter.com/dedaub/status/1675516729349292032?s=20
+"['Ethereum', 'Arbitrum']",Infrastructure,1703894400,DeFi Protocol,0.321,Locus Finance,Private Key Compromised (Unknown Method),False,https://twitter.com/Locus_finance/status/1744374506267767267
+['Comdex'],,1692403200,DeFi Protocol,0.0,Harbor Protocol,,False,https://twitter.com/PeckShieldAlert/status/1692852140199522716
+"['Ethereum', 'BSC']",Protocol Logic,1636243200,DeFi Protocol,4.4,ChainSwap,Exploit Weak Authentication Check,True,https://chain-swap.medium.com/chainswap-exploit-11-july-2021-post-mortem-6e4e346e5a32
+['Ethereum'],Protocol Logic,1706572800,DeFi Protocol,6.5,Abracadabra,Borrow Logic Exploit,False,https://twitter.com/peckshield/status/1752279373779194011
+['Arbitrum'],Infrastructure,1704153600,DeFi Protocol,4.5,Radiant Capital,Flashloan New Market Exploit,False,https://twitter.com/peckshield/status/1742334242120466580
+['Ethereum'],Protocol Logic,1693526400,DeFi Protocol,0.175,SharedStake,Ownership Override Attack,False,https://twitter.com/spreekaway/status/1697612239929246022
+['Avalanche'],Rugpull,1637798400,DeFi Protocol,18.1,Snowdog,Drained Contracts,False,https://rekt.news/snowdog-rekt/
+"['Linea', 'zkSync Era']",Protocol Logic,1717286400,DeFi Protocol,6.8,Velocore,Fee Overflow Exploit,False,https://x.com/velocorexyz/status/1797229772399067587
+['Ethereum'],Ecosystem,1612483200,DeFi Protocol,11.0,Yearn,Flashloan Price Oracle Attack,False,https://rekt.news/yearn-rekt/
+['Ethereum'],Ecosystem,1691884800,DeFi Protocol,2.1,Zunami Protocol,Price Manipulation Attack,False,https://twitter.com/decryptmedia/status/1690946389323157504
+['Ethereum'],Protocol Logic,1659312000,DeFi Protocol,190.0,Nomad,Trusted Root Exploit,True,https://twitter.com/samczsun/status/1554252024723546112?s=20&t=mesLZTckBsl_X2_KbGcEHQ
+['Ethereum'],Infrastructure,1647993600,DeFi Protocol,624.0,Ronin,Private Key Compromised (Social Engineering),True,https://roninblockchain.substack.com/p/back-to-building-ronin-security-breach
+['Solana'],Infrastructure,1670025600,DeFi Protocol,0.0,Ratio Finance,Private Key Compromised (Unknown Method),False,https://twitter.com/RatioFinance/status/1621481456777428992
+[],Infrastructure,1643673600,CEX,7.5,BNS,Private Key Compromised (Unknown Method),False,https://twitter.com/zachxbt/status/1630665458134163476
+['Optimism'],Infrastructure,1654387200,DeFi Protocol,27.6,Wintermute,Cross Chain Multisig Deployment Exploit,False,https://banteg.mirror.xyz/iZAsBNL3j_5NIAY2Erav1r7Q4ecc7SC76AfMjyScs34
+['Ethereum'],Infrastructure,1690675200,DeFi Protocol,61.7,Curve,Vyper Compiler Bug,False,https://twitter.com/spreekaway/status/1685669149911990273
+['Ethereum'],Protocol Logic,1640044800,DeFi Protocol,8.2,Visor Finance,Access Control Exploit,False,https://medium.com/visorfinance/post-mortem-for-vvisr-staking-contract-exploit-and-upcoming-migration-7920e1dee55a
+['Avalanche'],Ecosystem,1676505600,DeFi Protocol,8.5,Platypus Finance,Flashloan Reentrancy Attack,False,https://twitter.com/CertiKAlert/status/1626318821840629763
+['BSC'],Protocol Logic,1619568000,DeFi Protocol,57.2,Uranium Finance,Math Mistake Exploit,False,https://rekt.news/uranium-rekt/
+['Arbitrum'],Ecosystem,1663459200,DeFi Protocol,0.565,GMX,Price Oracle Attack,False,https://twitter.com/jayantkrish/status/1571893643178569728?s=20&t=O--bs-V1Xnkmzm2JZOdZsw
+['Ethereum'],Infrastructure,1638403200,DeFi Protocol,120.0,Badger,Cloudflare Key Compromised,False,https://badger.com/technical-post-mortem
+['BSC'],Protocol Logic,1687132800,DeFi Protocol,0.131,ARA,Access Control Exploit,False,https://twitter.com/Phalcon_xyz/status/1670700964272295936
+['BSC'],Protocol Logic,1682899200,DeFi Protocol,1.0,Level Finance,Referral Claims Logic Exploit,False,https://twitter.com/peckshield/status/1653149493133729794?t=ojjCnRcDogo3lOKIy8cKgA&s=19
+['Avalanche'],Protocol Logic,1696636800,Other,2.6,Stars Arena,Reentrancy,False,https://twitter.com/peckshield/status/1710555944269292009?t=Al_-cDBwoNs3vpKqcpJ0Jw&s=19
+['BSC'],Ecosystem,1622160000,DeFi Protocol,7.2,BurgerSwap,Flashloan Reentrancy Attack,False,https://twitter.com/FrankResearcher/status/1398114924337971201?s=20&t=vVNaBlQNJ9WXRT54vvCZ8w
+"['Arbitrum', 'Ethereum']",Ecosystem,1713484800,DeFi Protocol,44.7,Hedgey,Claim Contract Flashloan Exploit,False,https://twitter.com/hedgeyfinance/status/1781257581488418862
+['BSC'],Protocol Logic,1620172800,DeFi Protocol,10.0,Value DeFi,Access Control Exploit,False,https://rekt.news/value-rekt2/
+['BSC'],Protocol Logic,1621987200,DeFi Protocol,0.55,Merlin Labs,Math Mistake Exploit,False,https://rekt.news/merlin2-rekt/
+['Solana'],Infrastructure,1715817600,DeFi Protocol,2.0,pump.fun,Private Key Compromised (Unknown Method),False,https://x.com/FrankResearcher/status/1791164323047293325
+['Ethereum'],Ecosystem,1605312000,DeFi Protocol,7.0,Value Defi,Flashloan Price Oracle Attack,False,https://rekt.news/value-defi-rekt/
+['Optimism'],Protocol Logic,1715731200,DeFi Protocol,20.0,Sonne Finance,Flashloan Donate Function Logic Exploit,False,https://medium.com/@SonneFinance/post-mortem-sonne-finance-exploit-12f3daa82b06
+"['Ethereum', 'Solana']",Infrastructure,1668211200,CEX,450.0,FTX,Private Key Compromised (Unknown Method),False,https://twitter.com/zachxbt/status/1591475246250733568?s=20&t=jbwCEhQZKfWFnLPtCwErAg
+[],Infrastructure,1667260800,CEX,28.0,Deribit,Private Key Compromised (Unknown Method),False,https://twitter.com/DeribitExchange/status/1587701883778523136
+['BSC'],Ecosystem,1621987200,DeFi Protocol,0.68,Merlin Labs,Flashloan Incentive Rewards Exploit,False,https://rekt.news/merlinlabs-rekt/
+['Arbitrum'],Infrastructure,1705881600,DeFi Protocol,1.72,Concentric,Private Key Compromised (Social Engineering),False,https://twitter.com/ConcentricFi/status/1749418658818830622
+['Ethereum'],Rugpull,1614902400,DeFi Protocol,27.0,Paid Network,Infinite Mint and Dump,False,https://rekt.news/paid-rekt/
+['Ethereum'],Protocol Logic,1678665600,DeFi Protocol,197.0,Euler Finance,Flashloan Donate Function Logic Exploit,False,https://twitter.com/peckshield/status/1635229594596036608?s=20
+['Ethereum'],Protocol Logic,1500336000,ICO,7.7,CoinDash,Frontend Attack,False,https://www.coindesk.com/markets/2017/07/17/7-million-lost-in-coindash-ico-hack/
+['Ethereum'],Infrastructure,1701302400,DeFi Protocol,1.45,Florence Finance,Address Poisoning,False,https://twitter.com/PeckShieldAlert/status/1730045158509727968
+"['Ethereum', 'Optimism', 'Arbitrum']",Protocol Logic,1714435200,DeFi Protocol,1.6,Pike Finance,Storage Misalignment Exploit,False,https://twitter.com/PikeFinance/status/1785572875124330644
+['Ethereum'],Rugpull,1606867200,DeFi Protocol,12.0,Compounder Finance,Drained Contracts,False,https://rekt.news/deathbed-confessions-c3pr/
+['Celo'],Ecosystem,1666051200,DeFi Protocol,8.4,Moola Market,Price Oracle Attack,False,https://twitter.com/FrankResearcher/status/1582448720985014273?s=20&t=vRg4YjjP30kMjt_V7I0gfg
+['Bitcoin'],Infrastructure,1717113600,CEX,305.0,DMM Bitcoin,Private Key Compromised (Unknown Method),False,https://x.com/Cointelegraph/status/1796544899606524310
+"['Ethereum', 'Arbitrum']",Protocol Logic,1676851200,DeFi Protocol,2.0,Dexible,Arbitrary External Call,False,https://twitter.com/RektHQ/status/1628030868043300865
+[],Infrastructure,1680912000,CEX,13.9,GDAC,Hot wallet hack,False,https://twitter.com/MetaSleuth/status/1645692516401033216
+['Ethereum'],Protocol Logic,1698537600,DeFi Protocol,0.228,Astrid Finance,Withdraw Function Argument Manipulation,False,https://twitter.com/Phalcon_xyz/status/1718455634155409489
+"['Ethereum', 'Base', 'Polygon', 'Optimism', 'Arbitrum']",Protocol Logic,1700611200,DeFi Protocol,48.0,KyberSwap Elastic,Flashloan Swap Logic Exploit,False,https://twitter.com/KyberNetwork/status/1727475235342217682
+['Ethereum'],Infrastructure,1700611200,DeFi Protocol,86.6,Heco Bridge,Private Key Compromised (Unknown Method),True,https://twitter.com/TheBlock__/status/1727397707843621201
+"['Ethereum', 'BSC', 'Cronos']",Infrastructure,1644451200,DeFi Protocol,10.0,Dego Finance,Private Key Compromised (Unknown Method),False,https://rekt.news/dego-finance-rekt/
+['BSC'],Rugpull,1686355200,DeFi Protocol,0.116,Atlantis Loans,Access Control Exploit,False,https://twitter.com/peckshield/status/1667624256111276033
+['Polygon'],Protocol Logic,1624838400,DeFi Protocol,0.248,Safe Dollar,Incentive Rewards Exploit,False,https://rekt.news/safedollar-rekt/
+"['Ethereum', 'Polygon']",Infrastructure,1639353600,DeFi Protocol,140.0,Vulcan Forged,Private Key Compromised (Unknown Method),False,https://rekt.news/vulcan-forged-rekt/
+['BSC'],Rugpull,1624406400,DeFi Protocol,27.0,StableMagnet,Drained Contracts and User Wallets,False,https://twitter.com/RugDocIO/status/1407830298251964427?s=20&t=ABcGHyHjFWrkOL8Ya2qfKQ
+['Ethereum'],Protocol Logic,1672012800,DeFi Protocol,0.3,Amun,Controlled Rebalance Manipulation,False,https://medium.com/amun-tokens/peco-dfi-post-mortem-december-26th-2022-46576394def9
+['Base'],Rugpull,1692921600,DeFi Protocol,6.4,Magnate Finance,Drained Contracts,False,https://twitter.com/PeckShieldAlert/status/1694946221788729440
+['BSC'],Ecosystem,1621814400,DeFi Protocol,0.745,Autoshark,Flashloan Incentive Rewards Exploit,False,https://watchpug.medium.com/sharkfinance-performance-fee-minting-incident-analysis-4b2e3bd03923
+['Ethereum'],Protocol Logic,1691539200,DeFi Protocol,0.54,Earning.Farm,Reentrancy,False,https://twitter.com/CyversAlerts/status/1689193286420795393
+['Ethereum'],Infrastructure,1615680000,DeFi Protocol,5.7,Roll,Private Key Compromised (Unknown Method),False,https://rekt.news/roll-rekt/
+['Terra'],Infrastructure,1633651200,DeFi Protocol,2.0,Mirror Protocol,Outdated Oracle Exploit,False,https://twitter.com/FatManTerra/status/1531365988809293825?s=20&t=o8YSLZ0o7gAdHOxdVeuPcg
+['Ethereum'],Ecosystem,1690934400,Other,0.327,Uwerx,Flashloan Pool Shares Exploit,False,https://twitter.com/CertiKAlert/status/1686667720920625152
+['Ethereum'],Protocol Logic,1688342400,DeFi Protocol,0.068,AzukiDAO,Replay Attack,False,https://twitter.com/dedaub/status/1675983033168453632?s=20
+['Ethereum'],Rugpull,1635465600,DeFi Protocol,60.0,AnubisDAO,Drained Contracts,False,https://decrypt.co/84924/anubisdao-investors-lose-60-million-in-alleged-rug-pull
+['Arbitrum'],Protocol Logic,1693958400,DeFi Protocol,0.815,GMBL.COMPUTER,Referral Claims Logic Exploit,False,https://twitter.com/ImmuneBytes/status/1699338311230214536
+['Ethereum'],Smart Contract Language,1648339200,DeFi Protocol,2.01,Revest Finance,Reentrancy,False,https://twitter.com/BlockSecTeam/status/1508065573250678793?s=20&t=NXJmfrEeRP3-fqmOwjOAGQ
+"['BSC', 'Polygon']",Rugpull,1660089600,DeFi Protocol,0.6,Blur Finance,Drained Contracts,False,https://cryptoslate.com/blur-finance-allegedly-rug-pulled-investors-at-a-combined-600k-loss/
+['BSC'],Protocol Logic,1651968000,DeFi Protocol,3.0,Fortress Protocol,Governance and Oracle Exploit,False,https://rekt.news/fortress-rekt/
+"['Ethereum', 'Optimism']",Ecosystem,1688947200,DeFi Protocol,0.46,Arcadia,Flashloan Reentrancy Attack,False,https://arcadiafinance.medium.com/post-mortem-72e9d24a79b0
+['Solana'],Protocol Logic,1643760000,DeFi Protocol,326.0,Wormhole,Signature Exploit,True,https://twitter.com/samczsun/status/1489044939732406275?s=20&t=kfhTtvHGRyDbj-2P7f_hpA
+['Fantom'],Ecosystem,1639785600,DeFi Protocol,30.0,Grim Finance,Flashloan Reentrancy Attack,False,https://twitter.com/RugDocIO/status/1472293717725913089
+['BSC'],Ecosystem,1621209600,DeFi Protocol,18.0,bEarn,Flashloan Withdraw Logic Exploit,False,https://peckshield.medium.com/bearn-fi-incident-inconsistent-asset-denomination-between-vault-strategy-9b24b68ab1c0
+['Ethereum'],Rugpull,1661212800,DeFi Protocol,0.8,SudoRare,Drained Contracts,False,https://www.theblock.co/post/164970/nft-exchange-sudorare-suffers-800000-rug-pull-six-hours-after-launch
+['Arbitrum'],Ecosystem,1680566400,DeFi Protocol,1.0,Sentiment,Flashloan Reentrancy Attack,False,https://twitter.com/spreekaway/status/1643314142214758410?t=Lsj87_GeYV3YDlVXX4bFHQ&s=19
+['Ethereum'],Protocol Logic,1695081600,DeFi Protocol,0.238,Balancer,Frontend Attack,False,https://twitter.com/PeckShieldAlert/status/1704306602529247294
+['Ethereum'],Protocol Logic,1666310400,DeFi Protocol,0.3,Bond Protocol,Arbitrary External Call,False,https://twitter.com/Supremacy_CA/status/1583425026094641153
+['Ethereum'],Protocol Logic,1581724800,DeFi Protocol,0.35,bZx,Flashloan Slippage Attack,False,https://www.coinbase.com/blog/around-the-block-analysis-on-the-bzx-attack-defi-vulnerabilities-the-state-of-debit-cards-in
+['Ethereum'],Protocol Logic,1620432000,DeFi Protocol,10.0,Rari Capital,Price Oracle Attack,False,https://twitter.com/FrankResearcher/status/1391087260125188099
+['Fantom'],Ecosystem,1651104000,DeFi Protocol,13.4,Deus DAO,Flashloan Price Oracle Attack,False,https://twitter.com/peckshield/status/1519530463337250817?s=20&t=Mr6sVLBWq_A0ej9Y3-qstA
+['BSC'],Protocol Logic,1667433600,DeFi Protocol,4.589449,"pGALA *white hack
+",Misconfiguration,True,https://twitter.com/pNetworkDeFi/status/1588956872664829952
+['Ethereum'],Infrastructure,1700265600,Other,26.0,Kronos Research,API Key unauthorized access,False,https://twitter.com/ResearchKronos/status/1726013733888041376
