@@ -1,0 +1,2762 @@
+[
+	{
+		"name" : "Masterxchange"
+	},
+	{
+		"name" : "Rubicon Finance"
+	},
+	{
+		"name" : "byebnk"
+	},
+	{
+		"name" : "BtSwap"
+	},
+	{
+		"name" : "Cointral"
+	},
+	{
+		"name" : "SwapMatic"
+	},
+	{
+		"name" : "Alpha (1inch Resolver)"
+	},
+	{
+		"name" : "Cover Protocol"
+	},
+	{
+		"name" : "Portals.fi"
+	},
+	{
+		"name" : "Boltr"
+	},
+	{
+		"name" : "Bitcash.cz"
+	},
+	{
+		"name" : "UEX"
+	},
+	{
+		"name" : "Bungee Exchange"
+	},
+	{
+		"name" : "CafeSwap Finance"
+	},
+	{
+		"name" : "Blizz Finance"
+	},
+	{
+		"name" : "MilkShake"
+	},
+	{
+		"name" : "Bitfloor"
+	},
+	{
+		"name" : "AnchorSwap"
+	},
+	{
+		"name" : "TakoDeFi"
+	},
+	{
+		"name" : "Smart Valor"
+	},
+	{
+		"name" : "Foxbit.com.br"
+	},
+	{
+		"name" : "Horiza"
+	},
+	{
+		"name" : "BlockTrades Exchange"
+	},
+	{
+		"name" : "CompliFi"
+	},
+	{
+		"name" : "Alien Base"
+	},
+	{
+		"name" : "Alita Finance"
+	},
+	{
+		"name" : "Narwhalswap"
+	},
+	{
+		"name" : "Sky Crypto"
+	},
+	{
+		"name" : "HashDAO Finance"
+	},
+	{
+		"name" : "Purple Bridge"
+	},
+	{
+		"name" : "Arbswap"
+	},
+	{
+		"name" : "BKEX"
+	},
+	{
+		"name" : "KokonutSwap"
+	},
+	{
+		"name" : "Juno"
+	},
+	{
+		"name" : "Bitvc"
+	},
+	{
+		"name" : "NEXBit Pro"
+	},
+	{
+		"name" : "DFX Finance"
+	},
+	{
+		"name" : "Kiwidex"
+	},
+	{
+		"name" : "PariDEX"
+	},
+	{
+		"name" : "Viking Swap"
+	},
+	{
+		"name" : "B2BinPay"
+	},
+	{
+		"name" : "BiKi.com"
+	},
+	{
+		"name" : "ExoniumDEX"
+	},
+	{
+		"name" : "Freeway"
+	},
+	{
+		"name" : "DeFiPlaza"
+	},
+	{
+		"name" : "StormGain"
+	},
+	{
+		"name" : "Graviex"
+	},
+	{
+		"name" : "Zipmex"
+	},
+	{
+		"name" : "EasyFi"
+	},
+	{
+		"name" : "YoBit"
+	},
+	{
+		"name" : "AAX"
+	},
+	{
+		"name" : "Phenix Finance"
+	},
+	{
+		"name" : "Swapster"
+	},
+	{
+		"name" : "CakeCrypt"
+	},
+	{
+		"name" : "KillSwitch"
+	},
+	{
+		"name" : "New Order"
+	},
+	{
+		"name" : "Bitcoinwin"
+	},
+	{
+		"name" : "Abra"
+	},
+	{
+		"name" : "PolygonFarm Finance"
+	},
+	{
+		"name" : "PolkaBrige"
+	},
+	{
+		"name" : "SparkPoint"
+	},
+	{
+		"name" : "DinoSwap"
+	},
+	{
+		"name" : "OceanEx"
+	},
+	{
+		"name" : "CoinBig"
+	},
+	{
+		"name" : "Raptor Finance"
+	},
+	{
+		"name" : "RociFi"
+	},
+	{
+		"name" : "OpenLeverage"
+	},
+	{
+		"name" : "Spartan Protocol"
+	},
+	{
+		"name" : "FCoin"
+	},
+	{
+		"name" : "Flux Protocol"
+	},
+	{
+		"name" : "LeetSwap Finance"
+	},
+	{
+		"name" : "CoinFLEX (OPNX)"
+	},
+	{
+		"name" : "Oh! Finance"
+	},
+	{
+		"name" : "FLYBIT"
+	},
+	{
+		"name" : "Hotcoin"
+	},
+	{
+		"name" : "CoinE"
+	},
+	{
+		"name" : "Beanstalk"
+	},
+	{
+		"name" : "BT.Finance"
+	},
+	{
+		"name" : "BiONE"
+	},
+	{
+		"name" : "Nobitex.ir"
+	},
+	{
+		"name" : "Solana Farm"
+	},
+	{
+		"name" : "Rook"
+	},
+	{
+		"name" : "BiteBTC"
+	},
+	{
+		"name" : "Coinzix"
+	},
+	{
+		"name" : "MCash"
+	},
+	{
+		"name" : "Magpie"
+	},
+	{
+		"name" : "Btcxchange.ro"
+	},
+	{
+		"name" : "Bilaxy"
+	},
+	{
+		"name" : "MarginSwap"
+	},
+	{
+		"name" : "Panda Exchange"
+	},
+	{
+		"name" : "Coinify"
+	},
+	{
+		"name" : "ElasticSwap"
+	},
+	{
+		"name" : "Pandora Digital"
+	},
+	{
+		"name" : "GarudaSwap"
+	},
+	{
+		"name" : "Buytex"
+	},
+	{
+		"name" : "JDI Yield"
+	},
+	{
+		"name" : "Dinosaur Eggs"
+	},
+	{
+		"name" : "FYB-SG"
+	},
+	{
+		"name" : "Baby Moon Floki"
+	},
+	{
+		"name" : "Swivel Finance"
+	},
+	{
+		"name" : "Delta Exchange"
+	},
+	{
+		"name" : "Gridex"
+	},
+	{
+		"name" : "Pie Swap"
+	},
+	{
+		"name" : "SafeSun"
+	},
+	{
+		"name" : "Enclave Markets"
+	},
+	{
+		"name" : "Mellow Finance"
+	},
+	{
+		"name" : "AnjiEco"
+	},
+	{
+		"name" : "Firi"
+	},
+	{
+		"name" : "CherrySwap"
+	},
+	{
+		"name" : "Soku Swap"
+	},
+	{
+		"name" : "Parex"
+	},
+	{
+		"name" : "Kassa.cc"
+	},
+	{
+		"name" : "FINXFLO"
+	},
+	{
+		"name" : "Ramp Network"
+	},
+	{
+		"name" : "Xapo Bank"
+	},
+	{
+		"name" : "Btc38"
+	},
+	{
+		"name" : "Parrot Defi"
+	},
+	{
+		"name" : "Opes Finance"
+	},
+	{
+		"name" : "BiLira"
+	},
+	{
+		"name" : "Mochi Finance"
+	},
+	{
+		"name" : "PolyZap"
+	},
+	{
+		"name" : "KingDeFi"
+	},
+	{
+		"name" : "Ceto Swap"
+	},
+	{
+		"name" : "WEX"
+	},
+	{
+		"name" : "TomoDEX"
+	},
+	{
+		"name" : "RushMoon"
+	},
+	{
+		"name" : "Yeti Swap"
+	},
+	{
+		"name" : "Convergence Finance"
+	},
+	{
+		"name" : "Atlantis Loans"
+	},
+	{
+		"name" : "Salem Finance"
+	},
+	{
+		"name" : "Gravity Finance"
+	},
+	{
+		"name" : "dAMM Finance"
+	},
+	{
+		"name" : "Kingcrab Finance"
+	},
+	{
+		"name" : "Ketchup finance"
+	},
+	{
+		"name" : "KyubeyDex"
+	},
+	{
+		"name" : "Narwhale Finance"
+	},
+	{
+		"name" : "ArzPaya.com"
+	},
+	{
+		"name" : "PearZap"
+	},
+	{
+		"name" : "Elevatedefi"
+	},
+	{
+		"name" : "Bunicorn"
+	},
+	{
+		"name" : "Hermes"
+	},
+	{
+		"name" : "BTCEX"
+	},
+	{
+		"name" : "DaoSwap"
+	},
+	{
+		"name" : "KOT4X"
+	},
+	{
+		"name" : "DZap"
+	},
+	{
+		"name" : "Coco Swap"
+	},
+	{
+		"name" : "TronPredict"
+	},
+	{
+		"name" : "Sterling Finance"
+	},
+	{
+		"name" : "BigONE"
+	},
+	{
+		"name" : "Boosted.Finance"
+	},
+	{
+		"name" : "OTCxpert"
+	},
+	{
+		"name" : "OptyFi"
+	},
+	{
+		"name" : "Kyrrex"
+	},
+	{
+		"name" : "Auragi Finance"
+	},
+	{
+		"name" : "Galaxy Finance One"
+	},
+	{
+		"name" : "Based Protocol"
+	},
+	{
+		"name" : "Bitfex.trade"
+	},
+	{
+		"name" : "Stratosphere DeFi"
+	},
+	{
+		"name" : "FibSWAP"
+	},
+	{
+		"name" : "Stockpoint"
+	},
+	{
+		"name" : "Metric Exchange"
+	},
+	{
+		"name" : "Elwood"
+	},
+	{
+		"name" : "FX Choice"
+	},
+	{
+		"name" : "YouHodler"
+	},
+	{
+		"name" : "Anchor Protocol"
+	},
+	{
+		"name" : "PayKassa.pro"
+	},
+	{
+		"name" : "DeerFi"
+	},
+	{
+		"name" : "HoneyFarm Finance"
+	},
+	{
+		"name" : "Independent Reserve"
+	},
+	{
+		"name" : "Coindelta"
+	},
+	{
+		"name" : "Deepcoin"
+	},
+	{
+		"name" : "C-Patex"
+	},
+	{
+		"name" : "Twindex"
+	},
+	{
+		"name" : "Just Defi"
+	},
+	{
+		"name" : "Coin.mx"
+	},
+	{
+		"name" : "Renegade Finance"
+	},
+	{
+		"name" : "Nomiswap"
+	},
+	{
+		"name" : "Secta Finance"
+	},
+	{
+		"name" : "DeFiner"
+	},
+	{
+		"name" : "My Liquidity Partner"
+	},
+	{
+		"name" : "BleuTrade"
+	},
+	{
+		"name" : "IX Swap"
+	},
+	{
+		"name" : "Klickl"
+	},
+	{
+		"name" : "DailySwap DEX"
+	},
+	{
+		"name" : "EverRise"
+	},
+	{
+		"name" : "Cox Swap"
+	},
+	{
+		"name" : "Sologenic"
+	},
+	{
+		"name" : "Aperture Finance"
+	},
+	{
+		"name" : "Onchain Custodian"
+	},
+	{
+		"name" : "Angel Nodes"
+	},
+	{
+		"name" : "Pangu Trade"
+	},
+	{
+		"name" : "Liqui"
+	},
+	{
+		"name" : "Coinarch"
+	},
+	{
+		"name" : "BuckSwap"
+	},
+	{
+		"name" : "Uniwhale Exchange"
+	},
+	{
+		"name" : "DBX Finance"
+	},
+	{
+		"name" : "Papa Dao"
+	},
+	{
+		"name" : "Rootkit-Finance"
+	},
+	{
+		"name" : "Ramenswap Finance"
+	},
+	{
+		"name" : "United Farmers Finance"
+	},
+	{
+		"name" : "Metalswap"
+	},
+	{
+		"name" : "LocalCryptos"
+	},
+	{
+		"name" : "DiamondSwap"
+	},
+	{
+		"name" : "Cook Finance"
+	},
+	{
+		"name" : "Coinsbit"
+	},
+	{
+		"name" : "SwapBased"
+	},
+	{
+		"name" : "Tapbit"
+	},
+	{
+		"name" : "Swapfish"
+	},
+	{
+		"name" : "Tron Dex App"
+	},
+	{
+		"name" : "Equalizer"
+	},
+	{
+		"name" : "Blizzard.Money"
+	},
+	{
+		"name" : "Bit2C"
+	},
+	{
+		"name" : "BUX Crypto"
+	},
+	{
+		"name" : "CowSwap"
+	},
+	{
+		"name" : "LavaCake Finance"
+	},
+	{
+		"name" : "Climb Token Finance"
+	},
+	{
+		"name" : "Shibance"
+	},
+	{
+		"name" : "yAxis"
+	},
+	{
+		"name" : "Beethoven X"
+	},
+	{
+		"name" : "Digital Surge"
+	},
+	{
+		"name" : "Shogun"
+	},
+	{
+		"name" : "Bit-Z"
+	},
+	{
+		"name" : "Ape Finance"
+	},
+	{
+		"name" : "qmall"
+	},
+	{
+		"name" : "Exchanging.ir"
+	},
+	{
+		"name" : "ZG.com"
+	},
+	{
+		"name" : "ZigZag"
+	},
+	{
+		"name" : "ICherry Farm"
+	},
+	{
+		"name" : "OliveCash"
+	},
+	{
+		"name" : "Safegem"
+	},
+	{
+		"name" : "CoinsPaid"
+	},
+	{
+		"name" : "Bitbuy"
+	},
+	{
+		"name" : "Paymium"
+	},
+	{
+		"name" : "BakerySwap"
+	},
+	{
+		"name" : "Uswap.me"
+	},
+	{
+		"name" : "Jetfuel Finance"
+	},
+	{
+		"name" : "SaitaSwap"
+	},
+	{
+		"name" : "META"
+	},
+	{
+		"name" : "GTPS Finance"
+	},
+	{
+		"name" : "Bitcoin.de"
+	},
+	{
+		"name" : "MinedTrade.com"
+	},
+	{
+		"name" : "SOTA Platform"
+	},
+	{
+		"name" : "Azbit"
+	},
+	{
+		"name" : "Matrixport"
+	},
+	{
+		"name" : "onAVAX"
+	},
+	{
+		"name" : "Degen Swap"
+	},
+	{
+		"name" : "Switchain"
+	},
+	{
+		"name" : "Fibitpro Exchange"
+	},
+	{
+		"name" : "BaseSwap"
+	},
+	{
+		"name" : "Squirrel Finance"
+	},
+	{
+		"name" : "Rosato LLC (1inch Resolver)"
+	},
+	{
+		"name" : "NFTfi"
+	},
+	{
+		"name" : "Stex"
+	},
+	{
+		"name" : "Bitcorse"
+	},
+	{
+		"name" : "OPNX"
+	},
+	{
+		"name" : "Changelly"
+	},
+	{
+		"name" : "OpenOcean"
+	},
+	{
+		"name" : "BitKeep"
+	},
+	{
+		"name" : "MilkyWayEx"
+	},
+	{
+		"name" : "C2CX"
+	},
+	{
+		"name" : "Cross Exchange"
+	},
+	{
+		"name" : "Bity"
+	},
+	{
+		"name" : "Giottus"
+	},
+	{
+		"name" : "CloudBase"
+	},
+	{
+		"name" : "Bitsten"
+	},
+	{
+		"name" : "Kebab Finance"
+	},
+	{
+		"name" : "Simplex"
+	},
+	{
+		"name" : "TRUMPSWAP"
+	},
+	{
+		"name" : "Synthswap"
+	},
+	{
+		"name" : "LSDX Finance"
+	},
+	{
+		"name" : "Fstswap"
+	},
+	{
+		"name" : "Yield App"
+	},
+	{
+		"name" : "Bitcoin24"
+	},
+	{
+		"name" : "Bogged Finance"
+	},
+	{
+		"name" : "CoFiX"
+	},
+	{
+		"name" : "Bitexlive"
+	},
+	{
+		"name" : "Quidax"
+	},
+	{
+		"name" : "Mute"
+	},
+	{
+		"name" : "Grap Finance"
+	},
+	{
+		"name" : "CryptoPay"
+	},
+	{
+		"name" : "Sharky Swap"
+	},
+	{
+		"name" : "CoinTR"
+	},
+	{
+		"name" : "Verse DEX"
+	},
+	{
+		"name" : "Eleven.finance"
+	},
+	{
+		"name" : "Ulian"
+	},
+	{
+		"name" : "WeDex"
+	},
+	{
+		"name" : "YouSwap"
+	},
+	{
+		"name" : "Lucent Exchange"
+	},
+	{
+		"name" : "Bitcomaker"
+	},
+	{
+		"name" : "CrescentSwap"
+	},
+	{
+		"name" : "Smart OTC"
+	},
+	{
+		"name" : "Nebula Nodes"
+	},
+	{
+		"name" : "YouBank"
+	},
+	{
+		"name" : "Impermax Finance"
+	},
+	{
+		"name" : "MultiBank Group"
+	},
+	{
+		"name" : "Eidoo"
+	},
+	{
+		"name" : "Saturn Network"
+	},
+	{
+		"name" : "Space Token"
+	},
+	{
+		"name" : "Chronos"
+	},
+	{
+		"name" : "BitBase"
+	},
+	{
+		"name" : "Bitzlato"
+	},
+	{
+		"name" : "Carbon Finance"
+	},
+	{
+		"name" : "Cryptalgo"
+	},
+	{
+		"name" : "XBE Finance"
+	},
+	{
+		"name" : "TronTrade"
+	},
+	{
+		"name" : "Emirex"
+	},
+	{
+		"name" : "FTX US"
+	},
+	{
+		"name" : "HugosWay"
+	},
+	{
+		"name" : "ATAIX"
+	},
+	{
+		"name" : "SoliSnek Finance"
+	},
+	{
+		"name" : "DEx.top"
+	},
+	{
+		"name" : "ChainX.kr"
+	},
+	{
+		"name" : "FameEx"
+	},
+	{
+		"name" : "DeFi Swap"
+	},
+	{
+		"name" : "Decaswap"
+	},
+	{
+		"name" : "LocalBitcoins"
+	},
+	{
+		"name" : "Hiveswap"
+	},
+	{
+		"name" : "DOJOFARM"
+	},
+	{
+		"name" : "Bololex.com"
+	},
+	{
+		"name" : "Morphswap"
+	},
+	{
+		"name" : "Gemstones Finance"
+	},
+	{
+		"name" : "RoboForex"
+	},
+	{
+		"name" : "Paybis"
+	},
+	{
+		"name" : "Reaper Farm"
+	},
+	{
+		"name" : "Bitkonan"
+	},
+	{
+		"name" : "The Ocean"
+	},
+	{
+		"name" : "FORJ Network"
+	},
+	{
+		"name" : "Velocore"
+	},
+	{
+		"name" : "CheeseSwap.app"
+	},
+	{
+		"name" : "dex.blue"
+	},
+	{
+		"name" : "Maha DAO"
+	},
+	{
+		"name" : "Libero Financial"
+	},
+	{
+		"name" : "Poolz Finance"
+	},
+	{
+		"name" : "Platypus Finance"
+	},
+	{
+		"name" : "Complus"
+	},
+	{
+		"name" : "Coins.ph"
+	},
+	{
+		"name" : "The T Resolver (1inch Resolver)"
+	},
+	{
+		"name" : "PolyYeld Finance"
+	},
+	{
+		"name" : "YieldTopia"
+	},
+	{
+		"name" : "RocketSwap"
+	},
+	{
+		"name" : "PhoenixDefi"
+	},
+	{
+		"name" : "HyruleSwap"
+	},
+	{
+		"name" : "BTEX"
+	},
+	{
+		"name" : "mimic.fi"
+	},
+	{
+		"name" : "PantherSwap"
+	},
+	{
+		"name" : "Novadax"
+	},
+	{
+		"name" : "blockbank"
+	},
+	{
+		"name" : "Faa.st"
+	},
+	{
+		"name" : "VVS Finance"
+	},
+	{
+		"name" : "FastEx"
+	},
+	{
+		"name" : "Concentrator"
+	},
+	{
+		"name" : "Serum"
+	},
+	{
+		"name" : "Coinstash"
+	},
+	{
+		"name" : "CampBX"
+	},
+	{
+		"name" : "Pulsar Protocol"
+	},
+	{
+		"name" : "Bitcurex"
+	},
+	{
+		"name" : "Ensurer"
+	},
+	{
+		"name" : "SheepDex"
+	},
+	{
+		"name" : "MonteCarloDEX"
+	},
+	{
+		"name" : "Belt.fi"
+	},
+	{
+		"name" : "SifChain"
+	},
+	{
+		"name" : "Magpie Protocol"
+	},
+	{
+		"name" : "CroxSwap"
+	},
+	{
+		"name" : "Buffalo Swap"
+	},
+	{
+		"name" : "Bixin"
+	},
+	{
+		"name" : "Slingshot Finance"
+	},
+	{
+		"name" : "EnterDAO"
+	},
+	{
+		"name" : "Hardshell OTC"
+	},
+	{
+		"name" : "CuanSwap"
+	},
+	{
+		"name" : "Nominex"
+	},
+	{
+		"name" : "EverETH"
+	},
+	{
+		"name" : "Coinmotion"
+	},
+	{
+		"name" : "Mad Meerkat Finance"
+	},
+	{
+		"name" : "BTCC"
+	},
+	{
+		"name" : "Bent Finance"
+	},
+	{
+		"name" : "Qubit Finance"
+	},
+	{
+		"name" : "XP.NETWORK"
+	},
+	{
+		"name" : "THORSwap"
+	},
+	{
+		"name" : "CryptoLink.Tech"
+	},
+	{
+		"name" : "Slime Finance"
+	},
+	{
+		"name" : "Kindcow Finance"
+	},
+	{
+		"name" : "Futura Finance"
+	},
+	{
+		"name" : "Komodo"
+	},
+	{
+		"name" : "JaguarSwap"
+	},
+	{
+		"name" : "BITStorage"
+	},
+	{
+		"name" : "Banxa"
+	},
+	{
+		"name" : "BSCEX"
+	},
+	{
+		"name" : "Livecoin.net"
+	},
+	{
+		"name" : "Coinomat"
+	},
+	{
+		"name" : "Laertes Capital"
+	},
+	{
+		"name" : "Artis Turba Exchange"
+	},
+	{
+		"name" : "REX"
+	},
+	{
+		"name" : "SwapSpace"
+	},
+	{
+		"name" : "Kuna Exchange"
+	},
+	{
+		"name" : "Moonswap"
+	},
+	{
+		"name" : "DinoPark Finance"
+	},
+	{
+		"name" : "Igot"
+	},
+	{
+		"name" : "SalmonSwap"
+	},
+	{
+		"name" : "QuantaEx"
+	},
+	{
+		"name" : "TigerSwap"
+	},
+	{
+		"name" : "Bit Trade Australia"
+	},
+	{
+		"name" : "VALR"
+	},
+	{
+		"name" : "PolkaSwap"
+	},
+	{
+		"name" : "Steam Exchange"
+	},
+	{
+		"name" : "Folgory Exchange"
+	},
+	{
+		"name" : "Dystopia.exchange"
+	},
+	{
+		"name" : "DeFi Yield Protocol"
+	},
+	{
+		"name" : "Catex Exchange"
+	},
+	{
+		"name" : "Just Money"
+	},
+	{
+		"name" : "Coinsecure"
+	},
+	{
+		"name" : "Pico Stocks"
+	},
+	{
+		"name" : "SwitchDex"
+	},
+	{
+		"name" : "Sharkswap"
+	},
+	{
+		"name" : "Dexchange"
+	},
+	{
+		"name" : "IndoEx"
+	},
+	{
+		"name" : "Asproex"
+	},
+	{
+		"name" : "Red Fox Labs"
+	},
+	{
+		"name" : "Bitcratic"
+	},
+	{
+		"name" : "Multiplier"
+	},
+	{
+		"name" : "BabySwap Finance"
+	},
+	{
+		"name" : "Domani Protocol"
+	},
+	{
+		"name" : "Beverage Finance"
+	},
+	{
+		"name" : "Ccex"
+	},
+	{
+		"name" : "ArbidexFi"
+	},
+	{
+		"name" : "Kine Protocol"
+	},
+	{
+		"name" : "Tokocrypto"
+	},
+	{
+		"name" : "KnownOrigin"
+	},
+	{
+		"name" : "Pandayield"
+	},
+	{
+		"name" : "Mantis Swap"
+	},
+	{
+		"name" : "InfinityDOT"
+	},
+	{
+		"name" : "Solv"
+	},
+	{
+		"name" : "Okcoin"
+	},
+	{
+		"name" : "OTEX"
+	},
+	{
+		"name" : "Bitcoin Trade"
+	},
+	{
+		"name" : "TitanSwap"
+	},
+	{
+		"name" : "Hive Investments"
+	},
+	{
+		"name" : "USDi"
+	},
+	{
+		"name" : "Ramp DeFi"
+	},
+	{
+		"name" : "Bolide"
+	},
+	{
+		"name" : "xs2.exchange"
+	},
+	{
+		"name" : "XRC.Market"
+	},
+	{
+		"name" : "Vault Of Satoshi"
+	},
+	{
+		"name" : "Boboo Exchange"
+	},
+	{
+		"name" : "Swingby"
+	},
+	{
+		"name" : "Mt. Gox"
+	},
+	{
+		"name" : "EggPlus"
+	},
+	{
+		"name" : "BHEX.SG"
+	},
+	{
+		"name" : "AzurSwap"
+	},
+	{
+		"name" : "Orionx"
+	},
+	{
+		"name" : "Rivera"
+	},
+	{
+		"name" : "Doaibu"
+	},
+	{
+		"name" : "YFLink"
+	},
+	{
+		"name" : "HoneySwap.org"
+	},
+	{
+		"name" : "Caramelswap"
+	},
+	{
+		"name" : "OpenXSwap"
+	},
+	{
+		"name" : "Sparrow Exchange"
+	},
+	{
+		"name" : "Baanx"
+	},
+	{
+		"name" : "BTER"
+	},
+	{
+		"name" : "Cone.Exchange"
+	},
+	{
+		"name" : "Definix"
+	},
+	{
+		"name" : "Transit Finance"
+	},
+	{
+		"name" : "FlexCoin"
+	},
+	{
+		"name" : "Echidna Finance"
+	},
+	{
+		"name" : "Thodex"
+	},
+	{
+		"name" : "BODAV2"
+	},
+	{
+		"name" : "Snowdog DAO"
+	},
+	{
+		"name" : "MuskSwap"
+	},
+	{
+		"name" : "Dino Token"
+	},
+	{
+		"name" : "Midas Gold"
+	},
+	{
+		"name" : "Token.Store"
+	},
+	{
+		"name" : "Aurox"
+	},
+	{
+		"name" : "OmniBTC"
+	},
+	{
+		"name" : "Picnic"
+	},
+	{
+		"name" : "Tidebit"
+	},
+	{
+		"name" : "SouthXchange"
+	},
+	{
+		"name" : "CosmicSwap"
+	},
+	{
+		"name" : "Eagonswap"
+	},
+	{
+		"name" : "Polly Finance"
+	},
+	{
+		"name" : "Cryptonator"
+	},
+	{
+		"name" : "NFT20"
+	},
+	{
+		"name" : "Spider Labs (1inch Resolver)"
+	},
+	{
+		"name" : "Bitcambio"
+	},
+	{
+		"name" : "XSwap Protocol"
+	},
+	{
+		"name" : "MagicianMV"
+	},
+	{
+		"name" : "Equalizer Finance"
+	},
+	{
+		"name" : "HashKey Exchange"
+	},
+	{
+		"name" : "Stormswap Finance"
+	},
+	{
+		"name" : "Mux Protocol (MCDEX)"
+	},
+	{
+		"name" : "SpartaDex"
+	},
+	{
+		"name" : "Barbecue Swap"
+	},
+	{
+		"name" : "LordToken"
+	},
+	{
+		"name" : "EDDASwap"
+	},
+	{
+		"name" : "CEXA"
+	},
+	{
+		"name" : "DerivaDEX"
+	},
+	{
+		"name" : "WEEX"
+	},
+	{
+		"name" : "CoinW"
+	},
+	{
+		"name" : "SuperEx"
+	},
+	{
+		"name" : "Crypto Finance Group"
+	},
+	{
+		"name" : "Dex-Trade"
+	},
+	{
+		"name" : "Binomo"
+	},
+	{
+		"name" : "Baby ADA"
+	},
+	{
+		"name" : "Cake Monster"
+	},
+	{
+		"name" : "SafeStar"
+	},
+	{
+		"name" : "Bastion Protocol"
+	},
+	{
+		"name" : "CoinSwap"
+	},
+	{
+		"name" : "Hamster Defi"
+	},
+	{
+		"name" : "Axl Inu"
+	},
+	{
+		"name" : "Fleta Connect"
+	},
+	{
+		"name" : "COSS Exchange"
+	},
+	{
+		"name" : "ZipSwap"
+	},
+	{
+		"name" : "SocialSwap"
+	},
+	{
+		"name" : "Pandaswap.exchange"
+	},
+	{
+		"name" : "BTC-e"
+	},
+	{
+		"name" : "GGBTC"
+	},
+	{
+		"name" : "Floki Rocket"
+	},
+	{
+		"name" : "Arken Finance"
+	},
+	{
+		"name" : "BrickChain"
+	},
+	{
+		"name" : "PolyDEX.fi"
+	},
+	{
+		"name" : "Shell Protocol"
+	},
+	{
+		"name" : "bx.in.th"
+	},
+	{
+		"name" : "Whale Exchange"
+	},
+	{
+		"name" : "Wild Credit"
+	},
+	{
+		"name" : "Zonda (BitBay)"
+	},
+	{
+		"name" : "PLEXUS"
+	},
+	{
+		"name" : "SafeTrade Exchange"
+	},
+	{
+		"name" : "Paybswap"
+	},
+	{
+		"name" : "OKOK Network"
+	},
+	{
+		"name" : "ProBit"
+	},
+	{
+		"name" : "Swaprum"
+	},
+	{
+		"name" : "Throne Exchange"
+	},
+	{
+		"name" : "SpookySwap"
+	},
+	{
+		"name" : "El Dorado Exchange"
+	},
+	{
+		"name" : "Cryptostocks"
+	},
+	{
+		"name" : "Bitrefill"
+	},
+	{
+		"name" : "CoinField"
+	},
+	{
+		"name" : "IceSwap"
+	},
+	{
+		"name" : "Hamster Finance"
+	},
+	{
+		"name" : "TeddyDoge"
+	},
+	{
+		"name" : "TokenMarket"
+	},
+	{
+		"name" : "AllTrust.me"
+	},
+	{
+		"name" : "Solid Lizard Finance"
+	},
+	{
+		"name" : "CryptoTrade"
+	},
+	{
+		"name" : "PolyDEX.org"
+	},
+	{
+		"name" : "Bored Ape Farm Club"
+	},
+	{
+		"name" : "Cupcake Coin"
+	},
+	{
+		"name" : "Knights DeFi"
+	},
+	{
+		"name" : "Pandaswap.xyz"
+	},
+	{
+		"name" : "Vortex"
+	},
+	{
+		"name" : "CougarSwap"
+	},
+	{
+		"name" : "Dracula Protocol"
+	},
+	{
+		"name" : "Satin Exchange"
+	},
+	{
+		"name" : "Meshswap"
+	},
+	{
+		"name" : "Eterbase"
+	},
+	{
+		"name" : "Component Finance"
+	},
+	{
+		"name" : "BonziSwap"
+	},
+	{
+		"name" : "Position Exchange"
+	},
+	{
+		"name" : "MoonPay"
+	},
+	{
+		"name" : "BloctoApp"
+	},
+	{
+		"name" : "Bika"
+	},
+	{
+		"name" : "ZGYE"
+	},
+	{
+		"name" : "Cash App"
+	},
+	{
+		"name" : "BtcTrade"
+	},
+	{
+		"name" : "Bitbee"
+	},
+	{
+		"name" : "PolyPulsar"
+	},
+	{
+		"name" : "Bitci"
+	},
+	{
+		"name" : "CoinPayments.net"
+	},
+	{
+		"name" : "Polytrade Finance"
+	},
+	{
+		"name" : "CandyDex"
+	},
+	{
+		"name" : "Swapsicle"
+	},
+	{
+		"name" : "Sphynx"
+	},
+	{
+		"name" : "LatteSwap"
+	},
+	{
+		"name" : "Citex"
+	},
+	{
+		"name" : "Quantic"
+	},
+	{
+		"name" : "KryptoDEX"
+	},
+	{
+		"name" : "Ferro Protocol"
+	},
+	{
+		"name" : "EchoDex"
+	},
+	{
+		"name" : "VirgoCX"
+	},
+	{
+		"name" : "Warp Finance"
+	},
+	{
+		"name" : "Lif3"
+	},
+	{
+		"name" : "Ola Finance"
+	},
+	{
+		"name" : "Redlight Finance"
+	},
+	{
+		"name" : "VinDAX"
+	},
+	{
+		"name" : "Gorilla Nodes"
+	},
+	{
+		"name" : "Fjord Foundry"
+	},
+	{
+		"name" : "Bidesk"
+	},
+	{
+		"name" : "BNS (Bitbns)"
+	},
+	{
+		"name" : "eToro"
+	},
+	{
+		"name" : "Growth DeFi"
+	},
+	{
+		"name" : "ECNG Digital"
+	},
+	{
+		"name" : "R U Generous"
+	},
+	{
+		"name" : "Spice Trade"
+	},
+	{
+		"name" : "SiaCashCoin"
+	},
+	{
+		"name" : "Aofex"
+	},
+	{
+		"name" : "Morpho"
+	},
+	{
+		"name" : "Cryptorush"
+	},
+	{
+		"name" : "CoinBene"
+	},
+	{
+		"name" : "Dfyn Network"
+	},
+	{
+		"name" : "AstroSwap"
+	},
+	{
+		"name" : "Coinberry"
+	},
+	{
+		"name" : "Vinex"
+	},
+	{
+		"name" : "tai.money"
+	},
+	{
+		"name" : "Circulate Finance"
+	},
+	{
+		"name" : "Frontier.xyz"
+	},
+	{
+		"name" : "Jswap"
+	},
+	{
+		"name" : "Maxiumus"
+	},
+	{
+		"name" : "SafeEarn"
+	},
+	{
+		"name" : "AstroFarms"
+	},
+	{
+		"name" : "Alpha Genesis"
+	},
+	{
+		"name" : "WIFEDOGE"
+	},
+	{
+		"name" : "Umbria"
+	},
+	{
+		"name" : "Velocimeter"
+	},
+	{
+		"name" : "Bitberry Finance"
+	},
+	{
+		"name" : "OrangeX"
+	},
+	{
+		"name" : "Asbazar"
+	},
+	{
+		"name" : "Dagensia"
+	},
+	{
+		"name" : "SafeBitcoin"
+	},
+	{
+		"name" : "GDAC"
+	},
+	{
+		"name" : "Billion Happiness"
+	},
+	{
+		"name" : "Mfernodes"
+	},
+	{
+		"name" : "Unifarm"
+	},
+	{
+		"name" : "Conic Finance"
+	},
+	{
+		"name" : "AllianceBlock"
+	},
+	{
+		"name" : "Lydia Finance"
+	},
+	{
+		"name" : "Jubi"
+	},
+	{
+		"name" : "AuraSwap"
+	},
+	{
+		"name" : "Force DAO"
+	},
+	{
+		"name" : "zLOT Finance"
+	},
+	{
+		"name" : "MaskEX"
+	},
+	{
+		"name" : "SBI VC Trade (TaoTao)"
+	},
+	{
+		"name" : "eXch.cx"
+	},
+	{
+		"name" : "Satori Finance"
+	},
+	{
+		"name" : "AEX"
+	},
+	{
+		"name" : "Bitlo"
+	},
+	{
+		"name" : "Sphynx Labs"
+	},
+	{
+		"name" : "Swych Finance"
+	},
+	{
+		"name" : "ChainSwap"
+	},
+	{
+		"name" : "BitKan"
+	},
+	{
+		"name" : "ApeBond"
+	},
+	{
+		"name" : "ChainHop"
+	},
+	{
+		"name" : "BeagleSwap"
+	},
+	{
+		"name" : "Fidelity Custody"
+	},
+	{
+		"name" : "PYE"
+	},
+	{
+		"name" : "Bitcoinica"
+	},
+	{
+		"name" : "Coinstore"
+	},
+	{
+		"name" : "BOMB Money"
+	},
+	{
+		"name" : "KickEX"
+	},
+	{
+		"name" : "DIFX"
+	},
+	{
+		"name" : "BTC-Alpha Exchange"
+	},
+	{
+		"name" : "Singular Farm"
+	},
+	{
+		"name" : "IERC-20"
+	},
+	{
+		"name" : "NoOnes.com"
+	},
+	{
+		"name" : "SIMPSWAP"
+	},
+	{
+		"name" : "Delchain"
+	},
+	{
+		"name" : "Multiverse Capital"
+	},
+	{
+		"name" : "CoinExchange"
+	},
+	{
+		"name" : "JustCoin"
+	},
+	{
+		"name" : "Zyberswap"
+	},
+	{
+		"name" : "MintPal"
+	},
+	{
+		"name" : "HakuSwap"
+	},
+	{
+		"name" : "Lighter"
+	},
+	{
+		"name" : "CamboChanger"
+	},
+	{
+		"name" : "Atlendis"
+	},
+	{
+		"name" : "FlashDex"
+	},
+	{
+		"name" : "Fasset"
+	},
+	{
+		"name" : "WBFEX"
+	},
+	{
+		"name" : "KnightSwap"
+	},
+	{
+		"name" : "YVSFinance"
+	},
+	{
+		"name" : "WeFi"
+	},
+	{
+		"name" : "Lynex"
+	},
+	{
+		"name" : "HAI DAMO"
+	},
+	{
+		"name" : "Baryon Network"
+	},
+	{
+		"name" : "Tutti Frutti"
+	},
+	{
+		"name" : "JUST"
+	},
+	{
+		"name" : "BitcoinToYou"
+	},
+	{
+		"name" : "Biking"
+	},
+	{
+		"name" : "Flair Dex"
+	},
+	{
+		"name" : "ARIX"
+	},
+	{
+		"name" : "Cryptology Exchange"
+	},
+	{
+		"name" : "JPEX"
+	},
+	{
+		"name" : "Farhad Exchange"
+	},
+	{
+		"name" : "Jamonswap"
+	},
+	{
+		"name" : "XTheta Global"
+	},
+	{
+		"name" : "50x.com"
+	},
+	{
+		"name" : "HolyTransaction"
+	},
+	{
+		"name" : "LCX AG"
+	},
+	{
+		"name" : "Arctic Bastion (1inch Resolver)"
+	},
+	{
+		"name" : "Oreoswap"
+	},
+	{
+		"name" : "Sashimi Swap"
+	},
+	{
+		"name" : "Sunbit"
+	},
+	{
+		"name" : "ACY Finance"
+	},
+	{
+		"name" : "JulSwap"
+	},
+	{
+		"name" : "Restaurant DeFi"
+	},
+	{
+		"name" : "AlterDice"
+	},
+	{
+		"name" : "Vauld"
+	},
+	{
+		"name" : "BTSE Exchange"
+	},
+	{
+		"name" : "Integral"
+	},
+	{
+		"name" : "CBSwap"
+	},
+	{
+		"name" : "Don-key Finance"
+	},
+	{
+		"name" : "EXODIA"
+	},
+	{
+		"name" : "Pine.finance"
+	},
+	{
+		"name" : "Burnace"
+	},
+	{
+		"name" : "Food Farmer Finance"
+	},
+	{
+		"name" : "Radioshack Swap"
+	},
+	{
+		"name" : "Hegic"
+	},
+	{
+		"name" : "Plasma Finance"
+	},
+	{
+		"name" : "LeonicornSwap"
+	},
+	{
+		"name" : "LMAX Digital"
+	},
+	{
+		"name" : "Treedefi"
+	},
+	{
+		"name" : "Crudeoil Finance"
+	},
+	{
+		"name" : "Bitop"
+	},
+	{
+		"name" : "Tigris Trade"
+	},
+	{
+		"name" : "UEEX"
+	},
+	{
+		"name" : "Omino Finance"
+	},
+	{
+		"name" : "Via Protocol"
+	},
+	{
+		"name" : "Cashierest"
+	},
+	{
+		"name" : "Native"
+	},
+	{
+		"name" : "Parallax Finance"
+	},
+	{
+		"name" : "Transak"
+	},
+	{
+		"name" : "ShibainuSwap"
+	},
+	{
+		"name" : "Bitpapa"
+	},
+	{
+		"name" : "CremePie Finance"
+	},
+	{
+		"name" : "OCX"
+	},
+	{
+		"name" : "BobaSwap"
+	},
+	{
+		"name" : "Tetu"
+	},
+	{
+		"name" : "Metavault"
+	},
+	{
+		"name" : "Hopex"
+	},
+	{
+		"name" : "Dexalot"
+	},
+	{
+		"name" : "Miime"
+	},
+	{
+		"name" : "CoinDeal"
+	},
+	{
+		"name" : "Bitcoin.com"
+	},
+	{
+		"name" : "DackieSwap"
+	},
+	{
+		"name" : "Yield Parrot Finance"
+	},
+	{
+		"name" : "LFGSWap"
+	},
+	{
+		"name" : "CoinEgg"
+	},
+	{
+		"name" : "AuroraCredit"
+	},
+	{
+		"name" : "BitPay"
+	},
+	{
+		"name" : "Autofarm"
+	},
+	{
+		"name" : "Fairdesk"
+	},
+	{
+		"name" : "Binance JEX"
+	},
+	{
+		"name" : "CashCow Protocol"
+	},
+	{
+		"name" : "WardenSwap"
+	},
+	{
+		"name" : "Roseon"
+	},
+	{
+		"name" : "Zooswap"
+	},
+	{
+		"name" : "Swamp Finance"
+	},
+	{
+		"name" : "OTCBTC"
+	},
+	{
+		"name" : "Bituan"
+	},
+	{
+		"name" : "AtomicBlue"
+	},
+	{
+		"name" : "Gotchi Vault"
+	},
+	{
+		"name" : "DeFi Money Market"
+	},
+	{
+		"name" : "Coinswitch"
+	},
+	{
+		"name" : "Pira"
+	},
+	{
+		"name" : "Squid"
+	},
+	{
+		"name" : "Popcorn Network"
+	},
+	{
+		"name" : "ZBG Global"
+	},
+	{
+		"name" : "Gatecoin.com"
+	},
+	{
+		"name" : "Bit-Obmenka.vip"
+	},
+	{
+		"name" : "Mushrooms Finance"
+	},
+	{
+		"name" : "swap.kiwi"
+	},
+	{
+		"name" : "FatBTC"
+	},
+	{
+		"name" : "Kavian Finance"
+	},
+	{
+		"name" : "Calypso Exchange"
+	},
+	{
+		"name" : "Tempus Finance"
+	},
+	{
+		"name" : "Omgfin"
+	},
+	{
+		"name" : "BITFRONT"
+	},
+	{
+		"name" : "xSigma DeFi"
+	},
+	{
+		"name" : "Mt Pelerin"
+	},
+	{
+		"name" : "Dgex"
+	},
+	{
+		"name" : "GYSR"
+	},
+	{
+		"name" : "Dcoin"
+	},
+	{
+		"name" : "CryptoRocket"
+	},
+	{
+		"name" : "Teroxx"
+	},
+	{
+		"name" : "SunDex"
+	},
+	{
+		"name" : "Yel.Finance"
+	},
+	{
+		"name" : "BITLL"
+	},
+	{
+		"name" : "Eclipcoin"
+	},
+	{
+		"name" : "Berebit"
+	},
+	{
+		"name" : "Beaxy"
+	},
+	{
+		"name" : "Tokencan"
+	},
+	{
+		"name" : "Bitcoin Meester"
+	},
+	{
+		"name" : "FeSwap"
+	},
+	{
+		"name" : "Meta Century"
+	},
+	{
+		"name" : "Coineal"
+	},
+	{
+		"name" : "LinkSwap"
+	},
+	{
+		"name" : "Bankex"
+	},
+	{
+		"name" : "BoneSwap"
+	},
+	{
+		"name" : "Sunflower Finance"
+	},
+	{
+		"name" : "ZBX"
+	},
+	{
+		"name" : "PacificSwap"
+	},
+	{
+		"name" : "ZT Exchange"
+	},
+	{
+		"name" : "Niob Finance"
+	},
+	{
+		"name" : "Anycoin Direct"
+	},
+	{
+		"name" : "Voltage Finance"
+	},
+	{
+		"name" : "Clipper (1inch Resolver)"
+	},
+	{
+		"name" : "KakiDex"
+	},
+	{
+		"name" : "Flata.Exchange"
+	},
+	{
+		"name" : "StoneDefi"
+	},
+	{
+		"name" : "Drip Network"
+	},
+	{
+		"name" : "Choise.com"
+	},
+	{
+		"name" : "PrimeXBT"
+	},
+	{
+		"name" : "Farm XYZ"
+	},
+	{
+		"name" : "P2B Exchange"
+	},
+	{
+		"name" : "Kyoto Swap"
+	},
+	{
+		"name" : "LaunchZone"
+	},
+	{
+		"name" : "Yetuswap"
+	},
+	{
+		"name" : "Arrakis Finance"
+	},
+	{
+		"name" : "Yieldwatch"
+	},
+	{
+		"name" : "Bitmake"
+	},
+	{
+		"name" : "BitUN.io"
+	},
+	{
+		"name" : "Polycorn Finance"
+	},
+	{
+		"name" : "Indacoin.com"
+	},
+	{
+		"name" : "Llama Airforce"
+	},
+	{
+		"name" : "Farmageddon"
+	},
+	{
+		"name" : "JOYSO"
+	},
+	{
+		"name" : "Yieldification"
+	},
+	{
+		"name" : "Little Rabbit"
+	},
+	{
+		"name" : "Pylon.Finance"
+	},
+	{
+		"name" : "W3Swap"
+	},
+	{
+		"name" : "QB.com"
+	},
+	{
+		"name" : "Comkort"
+	},
+	{
+		"name" : "XY Finance"
+	},
+	{
+		"name" : "YieldWolf"
+	},
+	{
+		"name" : "Populous"
+	},
+	{
+		"name" : "Incognito Chain"
+	},
+	{
+		"name" : "smartdex.app"
+	},
+	{
+		"name" : "Zethyr Exchange"
+	},
+	{
+		"name" : "ETHA Lend"
+	},
+	{
+		"name" : "Aeroswap"
+	},
+	{
+		"name" : "ApeRocket"
+	},
+	{
+		"name" : "AutoShark"
+	},
+	{
+		"name" : "WOWswap"
+	},
+	{
+		"name" : "Holograph"
+	},
+	{
+		"name" : "IceCreamSwap"
+	},
+	{
+		"name" : "DYOR Audit"
+	},
+	{
+		"name" : "mcxNOW"
+	},
+	{
+		"name" : "Orderbook.net"
+	},
+	{
+		"name" : "OasisSwap"
+	},
+	{
+		"name" : "Shakepay"
+	},
+	{
+		"name" : "CoinCoinX"
+	},
+	{
+		"name" : "Rizzolver"
+	},
+	{
+		"name" : "BitBlinx"
+	},
+	{
+		"name" : "Love Boat Exchange"
+	},
+	{
+		"name" : "Gondola Finance"
+	},
+	{
+		"name" : "PoloniDEX"
+	},
+	{
+		"name" : "Fiat DAO"
+	},
+	{
+		"name" : "Onyx Protocol"
+	},
+	{
+		"name" : "LENX"
+	},
+	{
+		"name" : "Bisq Network"
+	},
+	{
+		"name" : "Galaxy Finance"
+	},
+	{
+		"name" : "The Tavern"
+	},
+	{
+		"name" : "CoinDhan"
+	},
+	{
+		"name" : "APROBIT"
+	},
+	{
+		"name" : "PropellerSwap"
+	},
+	{
+		"name" : "Jindo Inu"
+	},
+	{
+		"name" : "Retro Finance"
+	},
+	{
+		"name" : "SunContract"
+	},
+	{
+		"name" : "Erosswap"
+	},
+	{
+		"name" : "Era Swap"
+	},
+	{
+		"name" : "Cashaa"
+	},
+	{
+		"name" : "Vancouver Bitcoin"
+	},
+	{
+		"name" : "The Rock Trading"
+	},
+	{
+		"name" : "GOC DEX"
+	},
+	{
+		"name" : "SimpleSwap.io"
+	},
+	{
+		"name" : "001k.exchange"
+	},
+	{
+		"name" : "Cryptsy Exchange"
+	},
+	{
+		"name" : "TronSecure"
+	},
+	{
+		"name" : "Firebird Finance (ValueDefi)"
+	},
+	{
+		"name" : "GMD Protocol"
+	},
+	{
+		"name" : "Cryptomus"
+	},
+	{
+		"name" : "Cryptal"
+	},
+	{
+		"name" : "Polkadex"
+	},
+	{
+		"name" : "SaltSwap"
+	},
+	{
+		"name" : "Swapr"
+	},
+	{
+		"name" : "Gro"
+	},
+	{
+		"name" : "Metal Swap"
+	},
+	{
+		"name" : "Blue Swap"
+	},
+	{
+		"name" : "Reflect.Finance"
+	},
+	{
+		"name" : "Shib Army"
+	},
+	{
+		"name" : "Txbit"
+	},
+	{
+		"name" : "CrowdSwap"
+	},
+	{
+		"name" : "BITCOIN INTERNATIONAL"
+	},
+	{
+		"name" : "Retro DEFI"
+	},
+	{
+		"name" : "Canary"
+	},
+	{
+		"name" : "BW.com"
+	},
+	{
+		"name" : "Tenderize.me"
+	},
+	{
+		"name" : "Pharaoh Exchange"
+	},
+	{
+		"name" : "Blueprint"
+	},
+	{
+		"name" : "BasoFinance"
+	},
+	{
+		"name" : "Koinex"
+	},
+	{
+		"name" : "SakeSwap"
+	},
+	{
+		"name" : "OasisDEX"
+	},
+	{
+		"name" : "Magnate Finance"
+	},
+	{
+		"name" : "CoinTiger"
+	},
+	{
+		"name" : "Baguette Exchange"
+	},
+	{
+		"name" : "Hurricane Swap"
+	},
+	{
+		"name" : "Mummy Finance"
+	},
+	{
+		"name" : "Crypto Swap"
+	},
+	{
+		"name" : "DefiChain"
+	},
+	{
+		"name" : "BitGuru"
+	},
+	{
+		"name" : "Marvin Inu"
+	},
+	{
+		"name" : "Minter Network"
+	},
+	{
+		"name" : "Snowflake"
+	},
+	{
+		"name" : "TBCC Global"
+	},
+	{
+		"name" : "Luna Yield"
+	},
+	{
+		"name" : "LongBit"
+	},
+	{
+		"name" : "BambooDeFi"
+	},
+	{
+		"name" : "OneSwap"
+	},
+	{
+		"name" : "Elizium.io"
+	},
+	{
+		"name" : "NFTTrader.io"
+	},
+	{
+		"name" : "GoCerberus.Finance"
+	},
+	{
+		"name" : "SingularX"
+	},
+	{
+		"name" : "Baby Lovely Inu"
+	},
+	{
+		"name" : "LiteBit"
+	},
+	{
+		"name" : "Yugen Finance"
+	},
+	{
+		"name" : "Blox Staking"
+	},
+	{
+		"name" : "Xiotri"
+	},
+	{
+		"name" : "Dexible"
+	},
+	{
+		"name" : "Q9 Capital"
+	},
+	{
+		"name" : "TradeOgre"
+	},
+	{
+		"name" : "Roqqu"
+	},
+	{
+		"name" : "Coinmkt.com"
+	}
+]
