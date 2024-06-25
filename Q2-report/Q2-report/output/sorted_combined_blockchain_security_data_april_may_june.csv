@@ -1,0 +1,45 @@
+Project,Loss Amount,Chain,Vulnerability,DATE,Proof Link
+Allbridge,550000.0,binance,Flawed Price Dependency,2023-04-02,https://twitter.com/BeosinAlert/status/1642372700726505473
+Low-Carb-Crusader,25000000.0,ethereum,Business Logic Flaw,2023-04-03,https://blocksec.com/blog/harvesting-mev-bots-by-exploiting-vulnerabilities-in-flashbots-relay
+Sentiment,1000000.0,arbitrum,Flawed Price Dependency,2023-04-04,
+SushiSwap,3300000.0,ethereum,Untrusted Input,2023-04-09,https://blocksec.com/blog/8-sushi-swap-incident-a-clumsy-rescue-attempt-leads-to-a-series-of-copycat-attacks
+Paribus,100000.0,arbitrum,Reentrancy,2023-04-11,https://twitter.com/Phalcon_xyz/status/1645742620897955842
+MetaPoint,820000.0,binance,Access Control Issue,2023-04-11,https://twitter.com/Phalcon_xyz/status/1645963327502204929
+yearnFinance,11000000.0,ethereum,Misconfiguration,2023-04-13,https://twitter.com/BeosinAlert/status/1646481687445114881
+Hundred Finance,7000000.0,optimism,Precision Loss,2023-04-15,https://blocksec.com/blog/6-hundred-finance-incident-catalyzing-the-wave-of-precision-related-exploits-in-vulnerable-forked-protocols
+0vix Protocol,550000.0,polygon,Flawed Price Dependency,2023-04-28,https://twitter.com/BlockSecTeam/status/1651918708024156168
+Level Finance,1000000.0,binance,Business Logic Flaw,2023-05-01,https://twitter.com/BlockSecTeam/status/1653267431127920641
+DEI,4500000.0,arbitrum,Business Logic Flaw,2023-05-05,https://twitter.com/eugenioclrc/status/1654576296507088906
+SNK,197000.0,binance,Reward Calculation Error,2023-05-10,https://twitter.com/Phalcon_xyz/status/1656176776425644032
+SellToken,197000.0,binance,Flawed Price Dependency,2023-05-13,https://twitter.com/BlockSecTeam/status/1657324561577435136
+CS Token,714000.0,binance,Business Logic Flaw,2023-05-23,https://twitter.com/BlockSecTeam/status/1661098394130198528
+GPT Token,155000.0,binance,Fee Machenism Exploitation,2023-05-24,https://twitter.com/Phalcon_xyz/status/1661424685320634368
+Jimbos Protocol,8000000.0,arbitrum,Flawed Price Dependency,2023-05-28,https://twitter.com/yicunhui2/status/1663793958781353985
+BabyDogeCoin,135000.0,binance,Lack Slippage Protection,2023-05-28,https://twitter.com/Phalcon_xyz/status/1662744426475831298
+ERC20TokenBank,111000.0,ethereum,Flawed Price Dependency,2023-05-31,https://twitter.com/BlockSecTeam/status/1663810037788311561
+Sturdy,800000.0,ethereum,Flawed Price Dependency,2023-06-12,https://twitter.com/BlockSecTeam/status/1668084629654638592
+Pawnfi,820000.0,ethereum,Untrusted Input,2023-06-17,https://blog.solidityscan.com/pawnfi-hack-analysis-38ac9160cbb4
+MidasCapitalXYZ,600000.0,binance,Precision Loss,2023-06-17,https://x.com/BlockSecTeam/status/1670145829204819969
+Shido,326000.0,binance,Business Logic Flaw,2023-06-24,https://twitter.com/Phalcon_xyz/status/1672473343734480896
+OpenLeverage,234000.0,binance,Reentrancy,2024-04-01,https://twitter.com/0xNickLFranklin/status/1774727539975672136
+ATM Token,182000.0,binance,Business Logic Flaw,2024-04-01,https://twitter.com/0xNickLFranklin/status/1775008489569718508
+SumerMoney,350000.0,base,Reentrancy,2024-04-12,https://twitter.com/0xNickLFranklin/status/1778986926705672698
+Hedgey Finance,1800000.0,ethereum,Unverified User Input,2024-04-19,
+YIEDL,150000.0,binance,Unverified User Input,2024-04-24,https://twitter.com/Phalcon_xyz/status/1782966561726156945
+SaitaChain,1000000.0,ethereum,Access Control Issue,2024-04-24,
+NGFS Token,190000.0,binance,Access Control Issue,2024-04-25,https://twitter.com/0xNickLFranklin/status/1783640967062663252
+PikeFinance,300000.0,"ethereum, arbitrum",Unverified User Input,2024-04-26,https://twitter.com/Phalcon_xyz/status/1784523042531819733
+Ember Sword,196000.0,polygon,Access Control Issue,2024-04-27,https://twitter.com/Phalcon_xyz/status/1784412609103446097
+PikeFinance,1695841.0,"ethereum, arbitrum, optimism",Storage Collision,2024-05-01,https://twitter.com/Phalcon_xyz/status/1785508900093194591
+Tsuru,403847.0,base,Access Control Issue,2024-05-10,https://twitter.com/TsuruBase/status/1789000570235420847
+GalaxyFoxToken,330000.0,ethereum,Access Control Issue,2024-05-10,https://twitter.com/Phalcon_xyz/status/1788751977263882585
+Predy Finance,464000.0,arbitrum,Accounting Error,2024-05-14,https://x.com/predyfinance/status/1791109477049000336
+SonneFinance,20000000.0,optimism,Precision Loss,2024-05-15,https://x.com/SonneFinance/status/1790578458172563648
+Gala,21000000.0,ethereum,Compromised Private Key,2024-05-20,https://twitter.com/Benefactor0101/status/1792698768166715776
+Normie,490000.0,base,Business Logic Flaw,2024-05-26,https://x.com/0xNickLFranklin/status/1795102946515882185
+Orion Protocol,645000.0,binance,Business Logic Flaw,2024-05-28,https://x.com/Phalcon_xyz/status/1795355758235693089
+MetaDragon,180000.0,binance,Access Control Issue,2024-05-29,https://x.com/Phalcon_xyz/status/1795746828064854497
+TLN Protocol,163000.0,binance,Vulnerable Price Dependency,2024-05-31,https://x.com/Phalcon_xyz/status/1796481848387743959
+Velocore,6800000.0,"era, linea",Business Logic Flaw,2024-06-02,https://velocorexyz.medium.com/velocore-incident-post-mortem-6197020ec3e9
+UwU Lend,23000000.0,ethereum,Vulnerable Price Dependency,2024-06-10,https://twitter.com/Phalcon_xyz/status/1800454428870275359
+Holograph,1300000.0,ethereum,Compromised Private Key,2024-06-13,https://x.com/holographxyz/status/1801702424236990600
