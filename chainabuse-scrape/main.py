@@ -222,10 +222,45 @@ class ChainabuseScraper:
         return df
 
 
+
+    def format_data(self):
+            '''
+            Format the data and save it to a new CSV file
+            '''
+            df = pd.read_csv('output\chainabuse_data.csv')
+
+            extracted_data = []
+
+            for index, row in df.iterrows():
+                addresses = eval(row['addresses'])
+                for item in addresses:
+                    if item['address'] is not None and item['chain'] is not None:
+                        extracted_data.append({
+                            'id': row['id'],
+                            'address': item['address'],
+                            'chain': item['chain'],
+                            'evidences': row['evidences']
+                        })
+            new_df = pd.DataFrame(extracted_data)
+            
+            # remove all rows with chain = BTC or chain = Tron
+            new_df = new_df[new_df['chain'] != 'BTC']
+            new_df = new_df[new_df['chain'] != 'TRON']
+
+            new_df.to_csv('output/formated_data.csv', index=False)
+
+            print("New CSV file created with 'id', 'address', and 'chain' columns.")
+
+
+
 if __name__ == '__main__':
-    scraper = ChainabuseScraper()
-    data = scraper.get_data()
+    scraper_obj = ChainabuseScraper()
+    data = scraper_obj.get_data()
     if data:
-        df = scraper.to_dataframe()
+        df = scraper_obj.to_dataframe()
         print(df.head())
         df.to_csv('output/chainabuse_data.csv', index=False)
+        scraper_obj.format_data()
+    else:
+        print('Failed to get data')
+
