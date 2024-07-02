@@ -187,6 +187,12 @@ class ChainabuseScraper:
         self.data = []
 
     def get_data(self):
+        '''
+        Get all reports from Chainabuse
+
+        Returns:
+            list: List of reports
+        '''
         payload = PAYLOAD_TEMPLATE.copy()
         while True:
             response = requests.post(BASE_URL, headers=HEADERS, json=payload)
@@ -201,24 +207,25 @@ class ChainabuseScraper:
         return self.data
 
     def to_dataframe(self):
-        #all_keys = set().union(*(edge.keys() for edge in self.data))
+        '''
+        Convert data to pandas DataFrame
+        
+        Returns:
+            DataFrame: DataFrame containing the data
 
+        '''
         records = []
         for edge in self.data:
-            # Fill missing keys with None or another placeholder if desired
-            #record = {key: edge['node'].get(key, None) for key in all_keys}
             records.append(edge['node'])
 
-        # Convert to DataFrame
         df = pd.DataFrame(records)
         return df
 
 
-# Example usage
-scraper = ChainabuseScraper()
-data = scraper.get_data()
-if data:
-    df = scraper.to_dataframe()
-    print(df.head())
-    # Save to CSV
-    df.to_csv('chainabuse_data.csv', index=False)
+if __name__ == '__main__':
+    scraper = ChainabuseScraper()
+    data = scraper.get_data()
+    if data:
+        df = scraper.to_dataframe()
+        print(df.head())
+        df.to_csv('output/chainabuse_data.csv', index=False)
