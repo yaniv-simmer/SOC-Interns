@@ -225,9 +225,9 @@ class ChainabuseScraper:
 
     def format_data(self):
             '''
-            Format the data and save it to a new CSV file
+            Format the data and save it to a new CSV file. aacording to the requirements
             '''
-            df = pd.read_csv('output\chainabuse_data.csv')
+            df = pd.read_csv('output\chainabuse_raw_data.csv')
 
             extracted_data = []
 
@@ -259,7 +259,7 @@ if __name__ == '__main__':
     if data:
         df = scraper_obj.to_dataframe()
         print(df.head())
-        df.to_csv('output/chainabuse_data.csv', index=False)
+        df.to_csv('output/chainabuse_raw_data.csv', index=False)
         scraper_obj.format_data()
     else:
         print('Failed to get data')
